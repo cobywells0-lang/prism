@@ -1,0 +1,1 @@
+If an Ability has a Sustain tag, its effects can be continued or repeated on subsequent turns for a specified Action cost. Continuing an Ability in this way is called Sustaining.

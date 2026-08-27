@@ -1,0 +1,1 @@
+If an Ability does not require the use of a Weapon or Tool, it is considered Innate. When you deal damage with an Innate Ability, you deal additional damage equal to your Proficiency bonus for each Action that Ability takes to cast.

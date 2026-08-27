@@ -1,0 +1,1 @@
+Some Abilities grant you Activities that you can perform during a Long Rest. Performing an Activity does not disrupt the normal benefits of a Long Rest, but you can only perform one Activity per Long Rest.

@@ -1,0 +1,5 @@
+Checks are how most things in Prism are resolved. A Check is rolled when you make an attack, attempt a skill, or are forced to make a saving throw.
+
+In order to make a Check, you first total the bonuses you have for that roll, and then roll a number of D6 dice equal to that total. The total of the results of the dice is the total value of the roll, and is usually compared to a set Difficulty Class. If the roll total is equal to, or greater than, the Difficulty Class, the roll is successful.
+
+For example, if you wanted to lift a heavy obstacle, you would roll a Might check. As Might is a Physique Skill, the first bonus is simply your Physique bonus (let’s say you have +1). If you are Proficient in Might, you would also add your Proficiency Bonus (we’ll use +2 here). That gives you a total of +3, meaning you roll 3d6. If the total of that roll is greater than the Difficulty Class of the check, you succeed in lifting the obstacle.

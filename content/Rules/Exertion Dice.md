@@ -1,0 +1,1 @@
+You have a number of D6 Exertion Dice equal to your Soul bonus. When you make a skill check, attack or saving throw, you can choose to expend one Exertion Die in order to roll it and add the result to the roll’s total, potentially turning a failure into a success, a miss into a hit, or a hit into a Critical Hit.

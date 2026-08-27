@@ -1,0 +1,3 @@
+There are situations where the relative skill of two opposing creatures is more important than beating a simple DC. (For example, one creature is trying to hide, while another is trying to find them). 
+
+In these cases, the DM may call for a Contested Check. Both creatures roll a Skill check relevant to what they are trying to achieve, such as Stealth vs Perception. The creature that rolls higher wins the contest, and succeeds in their goal.
