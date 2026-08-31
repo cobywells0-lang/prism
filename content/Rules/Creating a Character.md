@@ -14,4 +14,6 @@ Choose three Stats to set to +2. The remaining three Stats start at only +1.
 
 ### Class
 
-Your Class determines the archetypes your character can fill, and is arguably the most important decision
+Your Class determines the archetypes your character can fill, and is arguably the most important decision you need to make in terms of shaping how your character can interact with the world.
+
+Choose one Class, and gain everything from that class's Traits Table, as well as any Abilities that level 1 in that class grants.
