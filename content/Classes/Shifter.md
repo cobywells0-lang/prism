@@ -39,11 +39,11 @@ You have 4 Primal Energy points, which you can expend to empower certain Shifter
 
 ## Level 1: Bestial Weapons
 
-| Level    | Cast Actions | Stats          | Range    |
-| -------- | ------------ | -------------- | -------- |
-| 1        | 1            | Phy/Ins        | 5ft      |
-| **Uses** | **Sustain**  | **Components** | **Area** |
-| -        | -            | Innate         | -        |
+| Level    | Cast Actions | Stats             | Range    |
+| -------- | ------------ | ----------------- | -------- |
+| 1        | 1            | Physique/Instinct | 5ft      |
+| **Uses** | **Sustain**  | **Components**    | **Area** |
+| -        | -            | Innate            | -        |
 
 You bite, claw, beat with a tail, or make some other simple animalistic attack. Make an attack roll against one creature within range. On a hit, it takes 1d8 damage. The damage type of this damage is your choice of Slashing, Piercing or Bludgeoning.
 
@@ -61,7 +61,7 @@ You gain scales, a shell, thick hide, or some other protective anatomy. While yo
 
 ## Level 2: Swiftness
 
-Your bestial features grant you greater mobility. Your Speed increases by 5 feet. This bonus increases when you reach Shifter levels 6 (+10 feet) and 11 (+15 feet).
+Your bestial features grant you greater mobility. Your Speed increases by 5 feet. This bonus increases when you reach Shifter levels 6 (10 feet) and 11 (15 feet).
 
 ## Level 3: Stat Increase
 

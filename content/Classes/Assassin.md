@@ -17,7 +17,7 @@ tags:
 | Level | Proficiency Bonus | Learnt Abilities | Class Abilities         |
 | ----- | ----------------- | ---------------- | ----------------------- |
 | 1     | +2                | 2                | Assassinate             |
-| 2     | +2                | 3                | Swiftness               |
+| 2     | +2                | 3                | Out of Sight, Swiftness |
 | 3     | +2                | 4                | Stat Increase, Subclass |
 | 4     | +2                | 5                | Cloak and Dagger        |
 | 5     | +3                | 6                | Preemptive Strike       |
@@ -35,13 +35,13 @@ tags:
 
 ## Level 1: Assassinate
 
-| Level    | Cast Actions | Stats          | Range    |
-| -------- | ------------ | -------------- | -------- |
-| 1        | 1            | Fin/Agi        | Self     |
-| **Uses** | **Sustain**  | **Components** | **Area** |
-| -        | -            | Innate         | -        |
+| Level    | Cast Actions | Stats           | Range    |
+| -------- | ------------ | --------------- | -------- |
+| 1        | 1            | Finesse/Agility | Self     |
+| **Uses** | **Sustain**  | **Components**  | **Area** |
+| -        | -            | Innate          | -        |
 
-As an Action, immediately after you hit a creature with an attack, you can attempt to assassinate the target. The target takes extra damage equal to your Assassinate value. If that damage reduces it to a number of Hit Points equal to or lower than your Assassinate value, it instead falls to 0 Hit Points. Your Assassinate value is twice your Assassin level plus 5.
+As an Action, immediately after you hit a creature with a weapon attack, you can attempt to assassinate the target. The target takes extra damage equal to your Assassinate value. If that damage reduces it to a number of Hit Points equal to or lower than your Assassinate value, it instead falls to 0 Hit Points. Your Assassinate value is twice your Assassin level plus 5.
 
 ## Level 2: Out of Sight
 
@@ -51,11 +51,11 @@ As an Action, immediately after you hit a creature with an attack, you can attem
 | **Uses** | **Sustain**  | **Components** | **Area** |
 | 4/LR     | -            | Innate         | -        |
 
-As an Action you employ misdirection, the environment, or a classical smoke bomb at the feet to vanish. You are Concealed until the start of your next turn. You can use this feature four times, regain one expended use when you finish a Short Rest, and regain all expended uses when you finish a Long Rest.
+As an Action you employ misdirection, the environment, or a classical smoke bomb at the feet to vanish. You are Concealed from all creatures until the start of your next turn. You can use this feature four times, regain one expended use when you finish a Short Rest, and regain all expended uses when you finish a Long Rest.
 
 ## Level 2: Swiftness
 
-Your time in the field has granted you greater mobility. Your Speed increases by 5 feet. This bonus increases when you reach Assassin level 6 (+10 feet).
+Your time in the field has granted you greater mobility. Your Speed increases by 5 feet. This bonus increases when you reach Assassin level 6 (10 feet).
 
 ## Level 3: Stat Increase
 

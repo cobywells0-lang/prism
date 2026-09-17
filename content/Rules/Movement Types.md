@@ -15,3 +15,5 @@ The movement types are as follows:
 **Fly.** You move through the air in any direction. You can fly to the ground in order to land safely. While Airborne, you can choose not to fall at the end of your turn if you fly at least 5 feet during that turn.
 
 **Burrow.** You dig through soft dirt, mud or loose rubble.
+
+**Shunt.** You are forced to move in a particular manner by a magic effect. Nothing can prevent you from being shunted, and movement as a response to being shunted never triggers reactions.

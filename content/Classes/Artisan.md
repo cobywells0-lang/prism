@@ -35,11 +35,11 @@ tags:
 
 ## Level 1: Artisanal Craft
 
-| Level | Cast Actions | Stats      | Range |
-| ----- | ------------ | ---------- | ----- |
-| 1     | Activity     | Phy/Int    | 5ft   |
-| Uses  | Sustain      | Components | Area  |
-| -     | -            | Innate     | -     |
+| Level | Cast Actions | Stats                 | Range |
+| ----- | ------------ | --------------------- | ----- |
+| 1     | Activity     | Physique/Intelligence | 5ft   |
+| Uses  | Sustain      | Components            | Area  |
+| -     | -            | Innate                | -     |
 
 As an Activity you can use a tool you are proficient with to create one product of your choice from the table below. You can have a maximum number of products created via this feature equal to your Ability bonus. If you use this Ability while you already have the maximum number of products created, you must choose an existing product to destroy in order to create something new.
 

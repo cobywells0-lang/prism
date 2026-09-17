@@ -16,7 +16,7 @@ tags:
 
 | Level | Proficiency Bonus | Learnt Abilities | Class Abilities         |
 | ----- | ----------------- | ---------------- | ----------------------- |
-| 1     | +2                | 2                | Counter Strike          |
+| 1     | +2                | 2                | Dirty Fighting          |
 | 2     | +2                | 3                | Battlecry, Swiftness    |
 | 3     | +2                | 4                | Stat Increase, Subclass |
 | 4     | +2                | 5                | Adaptive Guard          |
@@ -35,11 +35,11 @@ tags:
 
 ## Level 1: Dirty Fighting
 
-| Level    | Cast Actions | Stats          | Range    |
-| -------- | ------------ | -------------- | -------- |
-| 1        | 1            | Agi/Phy        | 5ft      |
-| **Uses** | **Sustain**  | **Components** | **Area** |
-| -        | -            | Innate         | -        |
+| Level    | Cast Actions | Stats            | Range    |
+| -------- | ------------ | ---------------- | -------- |
+| 1        | 1            | Physique/Agility | 5ft      |
+| **Uses** | **Sustain**  | **Components**   | **Area** |
+| -        | -            | Innate           | -        |
 
 As an Action immediately after you hit a creature with a Melee attack, you can perform one of the following options:
 
@@ -57,15 +57,15 @@ Additionally, if you are Grappling two creatures, you can knock their heads toge
 | -------- | ------------ | -------------- | -------- |
 | 1        | 1            | -              | Self     |
 | **Uses** | **Sustain**  | **Components** | **Area** |
-| 2/SR     | 1 Minute     | Innate         | -        |
+| 4/LR     | 1 Minute     | Innate         | -        |
 
-As an Action you let out a ferocious warcry, redoubling your efforts. You gain a number of Temporary Hit Points equal to 5 plus twice your Brawler level. While you have these Temporary Hit Points, your Melee attacks deal additional damage equal to your Physique bonus and you have Advantage on Physique skill checks.
+As an Action you let out a ferocious war cry, redoubling your efforts. You gain a number of Temporary Hit Points equal to 5 plus twice your Brawler level. While you have these Temporary Hit Points, your Melee attacks deal additional damage equal to your Physique bonus and you have Advantage on Endurance, Intimidation and Might checks.
 
-If any of these Temporary Hit Points remain after 1 minute, they disappear. You can Cast this ability twice, and regain all expended uses when you finish a Short or Long Rest.
+If any of these Temporary Hit Points remain after 1 minute, they disappear. You can cast this ability four times, and regain all expended uses when you finish a Long Rest.
 
 ## Level 2: Swiftness
 
-Your fighting spirit grants you greater mobility. Your Speed increases by 5 feet. This bonus increases when you reach Brawler level 6 (+10 feet).
+Your fighting spirit grants you greater mobility. Your Speed increases by 5 feet. This bonus increases when you reach Brawler level 6 (10 feet).
 
 ## Level 3: Stat Increase
 
@@ -85,11 +85,11 @@ Berzerker
 | -------- | ------------ | -------------- | -------- |
 | 1        | 1            | -              | Self     |
 | **Uses** | **Sustain**  | **Components** | **Area** |
-| 2/SR     | 1 Round      | Innate         | -        |
+| 4/LR     | 1 Round      | Innate         | -        |
 
 As an Action you can raise your guard against incoming attacks. You gain a bonus to your Armour Class equal to the number of Enemies within 5 feet. This bonus lasts until the start of your next turn.
 
-You can Cast this Ability two times, and regain all expended Castings when you finish a Short or Long Rest.
+You can cast this Ability four times, and regain all expended uses when you finish a Long Rest.
 
 ## Level 5: War Leader
 

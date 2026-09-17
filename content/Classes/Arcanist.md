@@ -22,11 +22,11 @@ An Arcanist is a problem solver, first and foremost. They utilise precisely stru
 
 | Level | Proficiency Bonus | Learnt Abilities | Class Abilities         |
 | ----- | ----------------- | ---------------- | ----------------------- |
-| 1     | +2                | 2                | Arcane Shunt            |
-| 2     | +2                | 3                | Relocator, Swiftness    |
+| 1     | +2                | 2                | Flexible Mind           |
+| 2     | +2                | 3                | Arcane Flow, Swiftness  |
 | 3     | +2                | 4                | Stat Increase, Subclass |
-| 4     | +2                | 5                | Nimble Casting          |
-| 5     | +3                | 6                |                         |
+| 4     | +2                | 5                | Mould Anima             |
+| 5     | +3                | 6                | Enhanced Flow           |
 | 6     | +3                | 6                | Subclass Ability        |
 | 7     | +3                | 7                | Stat Increase           |
 | 8     | +3                | 7                |                         |
@@ -39,36 +39,25 @@ An Arcanist is a problem solver, first and foremost. They utilise precisely stru
 | 15    | +5                | 11               | Stat Increase           |
 | 16    | +5                | 11               |                         |
 
-## Level 1: Arcane Shunt
+## Level 1: Flexible Mind
 
-| Level | Cast Actions | Stats      | Range |
-| ----- | ------------ | ---------- | ----- |
-| 1     | 3            | Agi/Int    | 60ft  |
-| Uses  | Sustain      | Components | Area  |
-| -     | -            | Innate     | -     |
+As an Activity you study new arcane techniques. Choose one Level 1 Magic Learnt ability you know. You replace that ability with another Magic Learnt ability of the same level that you are eligible to learn.
 
-With 3 Actions you can impart a telekinetic force upon an object. You target an object within 60 feet that weighs no more than a number of Kg equal to your Ability bonus times your Arcanist level. It is thrown in any direction up to 60 feet, or until it collides with an obstacle. You can attempt to hit a creature or object you can see. In that case, make an attack roll against that target. On a hit, both the target and thrown object take 3d8 Bludgeoning damage (or damage of another type, depending on the object thrown, at the DM’s discretion).
+The maximum level of abilities you can replace increases at Arcanist levels 7 (Level 2), 11 (Level 3) and 15 (Level 4).
 
-## Level 2: Relocation
+## Level 2: Arcane Flow
 
-| Level | Cast Actions | Stats      | Range |
-| ----- | ------------ | ---------- | ----- |
-| 1     | 1            | Agi/Int    | Self  |
-| Uses  | Sustain      | Components | Area  |
-| 2/LR  | -            | Innate     | -     |
+When you expend a use of a Magic ability to cast that ability, the next different Magic ability you cast before the start of your next turn is Empowered.
 
-As an Action you can produce a tiny item, such as a runestone, totem, or other arcane trinket in a free hand. This item is your Relocator. You can accurately throw your Relocator up to 30 feet as part of the Action taken to produce it. Its AC is the same as yours, it is Immune to Psychic damage, and if it takes any damage it is destroyed. It is also destroyed if you use this Ability again to create a new Relocator.
+When you cast an Empowered ability, you can choose one of the following benefits:
 
-You can Cast this Ability in this way twice, and regain all expended uses when you finish a Long Rest. You gain an additional use at Arcanist levels 5 (three), 9 (four) and 13 (five).
+**Dash.** You move up to half your Speed before or after casting. This movement does not trigger Reactions.
 
-As an Action you can teleport to a Relocator you have produced, provided that Relocator is on the same plane of existence as you. Teleporting in this way immediately destroys that Relocator.
-## Level 2: Nimble Casting
-
-Once per turn when you Sustain an Ability or Cast Arcane Shunt, you can move up to your Speed as part of the Action taken.
+**Reach.** If the Range of the ability is greater than 10 feet, the Range increases by a number of feet equal to 5 times the sum of your Agility and Intelligence bonuses. Otherwise, the Range becomes 15 feet for this casting.
 
 ## Level 2: Swiftness
 
-Your training grants you greater mobility. Your Speed increases by 5 feet.
+Your training grants you greater mobility. Your Speed increases by 5 feet. This bonus increases when you reach Arcanist levels 6 (10 feet) and 11 (15 feet).
 
 ## Level 3: Stat Increase
 
@@ -80,9 +69,26 @@ You gain this ability again at Arcanist levels 7, 11 and 15.
 
 You gain an Arcanist subclass of your choice. A subclass is a specialization that grants you features at certain Arcanist levels. For the rest of your career, you gain each of your subclass’s features that are of your Arcanist level or lower.
 
-## Level 4: 
+## Level 4: Mould Anima
 
-## Level 6:
+| Level    | Cast Actions | Stats                | Range    |
+| -------- | ------------ | -------------------- | -------- |
+| -        | 1            | Agility/Intelligence | Self     |
+| **Uses** | **Sustain**  | **Components**       | **Area** |
+| 4/LR     | -            | Magic                | -        |
+
+As an Action you shape strands of magic directly, producing a temporary, translucent object. You create one Tiny item of your choice in a free hand. It is entirely solid and chemically inert, but the colour and transparency can vary however you choose. Regardless of its appearance it is visible, and obviously magical and temporary. 
+
+If the function of the item depends upon a specific design (such as a key), you must be able to see that design when you make this item (by seeing a physical copy of the key, or having access to blueprints, for example).
+
+An item made in this way has a number of Hit Points equal to your Ability modifier, and AC equal to 10 plus your Arcanist level and Intelligence bonus. If it falls to zero Hit Points, it is destroyed. It also disappears if you use this ability again to make a new item.
+## Level 5: Enhanced Flow
+
+You learn more powerful ways to utilize the latent magic of your spells. When you cast an Empowered ability, you can instead choose one of the following benefits:
+
+**Stretch.** If the ability targets an area, that area is increased by 5 feet.
+
+**Bolster.** You, or one Ally within 30 feet, gain a number of Temporary Hit Points equal to your Intelligence bonus.
 
 ## Level 8:
 
@@ -90,7 +96,7 @@ You gain an Arcanist subclass of your choice. A subclass is a specialization tha
 
 You become more fluid and decisive in combat. You can take four Actions on your turn, instead of three. 
 
-## Level 12:
+## Level 12: 
 
 ## Level 13:
 

@@ -37,7 +37,7 @@ tags:
 
 | Level    | Cast Actions | Stats          | Range    |
 | -------- | ------------ | -------------- | -------- |
-| -        | 1            | Agi/Sou        | 60 Feet  |
+| -        | 1            | Agility/Soul   | 60 Feet  |
 | **Uses** | **Sustain**  | **Components** | **Area** |
 | 1/SR     | 1 Minute     | Innate         | -        |
 
@@ -52,7 +52,7 @@ Immediately after you hit a creature with an attack, you can expend any number o
 
 | Level    | Cast Actions | Stats          | Range    |
 | -------- | ------------ | -------------- | -------- |
-| -        | R            | Agi/Sou        | Self     |
+| -        | R            | Agility/Soul   | Self     |
 | **Uses** | **Sustain**  | **Components** | **Area** |
 | 2/SR     | -            | Innate         | -        |
 
@@ -60,7 +60,7 @@ As a Reaction when you gain a stack of Adrenaline, you can gain a number of Temp
 
 ## Level 2: Swiftness
 
-Your charismatic vigour grants you greater mobility. Your Speed increases by 5 feet. This bonus increases when you reach Swashbuckler level 6 (+10 feet).
+Your charismatic vigour grants you greater mobility. Your Speed increases by 5 feet. This bonus increases when you reach Swashbuckler level 6 (10 feet).
 
 ## Level 3: Stat Increase
 

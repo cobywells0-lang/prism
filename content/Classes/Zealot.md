@@ -51,13 +51,13 @@ Whenever you gain a Zealot level, you can exchange your chosen Relic for one of 
 
 | Level    | Cast Actions | Stats          | Range                    |
 | -------- | ------------ | -------------- | ------------------------ |
-| -        | 2            | Phy/Sou        | Self                     |
+| -        | 2            | Physique/Soul  | Self                     |
 | **Uses** | **Sustain**  | **Components** | **Area**                 |
-| 2/LR     | -            | Innate         | Cone Emanation (30-foot) |
+| 4/LR     | -            | Innate         | Cone Emanation (30-foot) |
 
 With two Actions you present your Relic and inspire awe in both friend and foe. Each Enemy within a 30-foot Cone Emanation must make a Soul saving throw, becoming Charmed or Frightened (your choice) for 1 minute on a failure. An affected creature repeats this saving throw at the end of each of its turns, losing the condition on a success. Each Ally within a 20-foot Sphere Emanation that is Frightened loses that condition.
 
-You can cast this ability twice, and regain all expended uses when you finish a Long Rest.
+You can cast this ability four times, and regain all expended uses when you finish a Long Rest.
 
 ## Level 3: Stat Increase
 
@@ -71,23 +71,7 @@ You gain a Zealot subclass of your choice. A subclass is a specialization that g
 
 Infernal, Celestial, Eldritch, Fey
 
-## Level 4: Commandment
-
-| Level    | Cast Actions | Stats          | Range    |
-| -------- | ------------ | -------------- | -------- |
-| -        | 1            | Phy/Sou        | 60 feet  |
-| **Uses** | **Sustain**  | **Components** | **Area** |
-| Sou/LR   | -            | Innate         | -        |
-
-Once per turn, as an Action, you can command one creature within 60 feet that can hear you. The target must make a Soul saving throw, at Disadvantage if it is Charmed by you. On a failure, the target is Charmed until the end of its next turn. While Charmed, the target acts in accordance to the command you gave it, of the following options:  
-  
-**Kneel.** The target falls Prone, and does nothing else.  
-  
-**Give.** The target moves to you, and hands you what it is holding if it can get within 5 feet of you. If it is holding multiple items, you choose which it gives you.  
-  
-**Flee.** The target moves directly away from you in a straight line as far as it can, deviating only to avoid solid objects in its path.
-
-You can cast this ability a number of times equal to your Soul bonus, and regain all expended uses when you finish a Long Rest.
+## Level 4: 
 
 ## Level 6:
 

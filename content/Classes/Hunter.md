@@ -37,7 +37,7 @@ tags:
 
 ## Level 2: Swiftness
 
-Your time in the wilds has granted you greater mobility. Your Speed increases by 5 feet. This bonus increases when you reach Hunter level 6 (+10 feet).
+Your time in the wilds has granted you greater mobility. Your Speed increases by 5 feet. This bonus increases when you reach Hunter level 6 (10 feet).
 
 ## Level 3: Stat Increase
 

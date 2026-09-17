@@ -62,13 +62,13 @@ Gladiator, Cavalier, Samurai, Crusader 
 
 ## Level 4: Practiced Techniques
 
-| Level      | Cast Actions | Stats          | Range    |
-| ---------- | ------------ | -------------- | -------- |
-| -          | -            | Fin/Phy        | Self     |
-| **Uses**   | **Sustain**  | **Components** | **Area** |
-| Ability/LR | -            | Innate         | -        |
+| Level      | Cast Actions | Stats            | Range    |
+| ---------- | ------------ | ---------------- | -------- |
+| -          | -            | Finesse/Physique | Self     |
+| **Uses**   | **Sustain**  | **Components**   | **Area** |
+| Ability/LR | -            | Innate           | -        |
 
-You’ve practiced advanced techniques until they feel like second nature. Choose two Level 1 Weapon Abilities you know. They become your Practiced Techniques. You can cast your Practiced Techniques without expending their uses by instead expending one use of this ability. You can use this ability a number of times equal to your Ability bonus, and regain all expended uses when you finish a Long Rest.
+You’ve practiced advanced techniques until they feel like second nature. Choose up to two Level 1 Weapon Abilities you know. They become your Practiced Techniques. You can cast a Practiced Technique without expending its use by instead expending one use of this ability. You can use this ability a number of times equal to your Ability bonus, and regain all expended uses when you finish a Long Rest.
 
 The maximum level of your Practiced Techniques increase at Warrior level 9 (Level 2) and 13 (Level 3). You can swap one Practiced Technique for another Weapon Ability you know whenever you gain a Warrior level.
 

@@ -24,7 +24,7 @@ Many Learnt Abilities have prerequisites that you must meet before you can learn
 
 **Species.** Some Learnt Abilities have one or more species listed. If you are of that species, you may learn that ability. Species takes precedence over Class prerequisites, but not Level.
 
-**Proficiency.** Many Learnt Abilities have one or more weapons, tools or skills listed. You must have Proficiency with at least one of those in order to learn that ability. In order to cast abilities with a weapon or tool prerequisite, you must be holding a weapon or tool that meets that prerequisite, and that your are proficient with.
+**Proficiency.** Many Learnt Abilities have one or more weapons, tools or skills listed. You must have Proficiency with at least one of those in order to learn that ability. In order to cast abilities with a weapon or tool prerequisite, you must be holding a weapon or tool that meets that prerequisite, and that you are proficient with.
 
 ### Basic Abilities
 
