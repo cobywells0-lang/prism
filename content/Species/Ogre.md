@@ -21,4 +21,5 @@ You have Damage Reduction against Frost equal to your Proficiency Bonus.
 | 1        | 1            | Phy/Ins        | 5 feet   |
 | **Uses** | **Sustain**  | **Components** | **Area** |
 | 1/SR     | -            | Innate         | -        |
+
 You attempt to knock a creature away with your tusks. One creature within range must make an Agility saving throw. On a failed save it takes 1d8 Bludgeoning damage and is pushed 15 feet away from you. Once you cast this ability you cannot do so again until you finish a Short or Long Rest.

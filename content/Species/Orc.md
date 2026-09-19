@@ -21,6 +21,7 @@ While in a plant-dominated environment, such as a field, garden or forest, you c
 | 1        | Reaction     | Phy/Ins        | 30 feet  |
 | **Uses** | **Sustain**  | **Components** | **Area** |
 | PB/LR    | -            | Innate         | -        |
+
 As a Reaction when a creature within range dies, your spores can feed upon that creature. You regain a number of Hit Points equal to your Ability bonus and additionally gain that many Temporary Hit Points. You can use this feature a number of times equal to your Proficiency bonus, and regain all expended uses when you finish a Long Rest.
 
 ### Mycelial Roots

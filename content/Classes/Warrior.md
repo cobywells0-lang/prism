@@ -6,7 +6,7 @@ tags:
 
 | Core Stats                      | Finesse and Physique                                                                       |
 | ------------------------------- | ------------------------------------------------------------------------------------------ |
-| Hit Point Dice                  | D12 per Warrior level                                                                      |
+| Hit Point Dice                  | D10 per Warrior level                                                                      |
 | Skill Proficiencies             | **Choose 2:** Forgery, Sabotage, Mobility, Might, Endurance, Insight, Crafting, Leadership |
 | Weapon Proficiencies            | **Choose 3:** Any Simple or Specialist Weapon                                              |
 | Tool and Language Proficiencies | **Choose 1:** Any Tool or Mortal Language                                                  |

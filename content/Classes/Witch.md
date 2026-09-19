@@ -6,7 +6,7 @@ tags:
 
 | Core Stats                      | Instinct and Intelligence                                                                         |
 | ------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Hit Point Dice                  | D8 per level                                                                                      |
+| Hit Point Dice                  | D6 per level                                                                                      |
 | Skill Proficiencies             | **Choose 3:** Forgery, Stealth, Intimidation, Survival, Insight, Deception, Crafting, Performance |
 | Weapon Proficiencies            | **Choose 1:** Any Simple Weapon                                                                   |
 | Tool and Language Proficiencies | **Choose 2:** Any Tool or Language                                                                |

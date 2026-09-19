@@ -12,7 +12,7 @@ An Arcanist is a problem solver, first and foremost. They utilise precisely stru
 
 | Core Stats                      | Agility and Intelligence                                                                           |
 | ------------------------------- | -------------------------------------------------------------------------------------------------- |
-| Hit Point Dice                  | D6 per level                                                                                       |
+| Hit Point Dice                  | D8 per level                                                                                       |
 | Skill Proficiencies             | **Choose 4:** Balance, Crafting, Endurance, Insight, Investigation, Leadership, Mobility, Sabotage |
 | Weapon Proficiencies            | **Choose 1:** Any Simple weapon                                                                    |
 | Tool and Language Proficiencies | **Choose 1:** Any Tool or Language                                                                 |

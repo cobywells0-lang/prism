@@ -6,7 +6,7 @@ tags:
 
 | Core Stats                      | Finesse and Intelligence                                                                          |
 | ------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Hit Point Dice                  | D10 per level                                                                                     |
+| Hit Point Dice                  | D8 per level                                                                                      |
 | Skill Proficiencies             | **Choose 2:** Sleight, Forgery, Balance, Might, Perception, Deception, Investigation, Performance |
 | Weapon Proficiencies            | **Choose 3:** Any Simple or Specialist Weapon                                                     |
 | Tool and Language Proficiencies | **Choose 1:** Any Tool and Language                                                               |
