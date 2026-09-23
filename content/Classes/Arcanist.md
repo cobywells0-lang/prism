@@ -41,6 +41,8 @@ An Arcanist is a problem solver, first and foremost. They utilise precisely stru
 
 ## Level 1: Flexible Mind
 
+You learn one Arcanist cantrip of your choice.
+
 As an Activity you study new arcane techniques. Choose one Level 1 Magic Learnt ability you know. You replace that ability with another Magic Learnt ability of the same level that you are eligible to learn.
 
 The maximum level of abilities you can replace increases at Arcanist levels 7 (Level 2), 11 (Level 3) and 15 (Level 4).
