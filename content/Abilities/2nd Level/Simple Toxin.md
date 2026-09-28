@@ -1,8 +1,4 @@
----
-tags:
-  - Level_2
----
-**Prerequisites:** Tool: Poison Kit
+**Prerequisites:** Tool: [[Poison Kit]]
 
 | Level    | Cast Actions | Stats                 | Range    |
 | -------- | ------------ | --------------------- | -------- |

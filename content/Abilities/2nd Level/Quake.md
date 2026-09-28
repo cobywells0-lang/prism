@@ -1,7 +1,3 @@
----
-tags:
-  - Level_2
----
 **Prerequisites:** Class: [[Brawler]], [[Gambler]], [[Shifter]], [[Sorcerer]], [[Swashbuckler]], [[Warrior]], [[Zealot]]
 
 | Level    | Cast Actions | Stats          | Range                    |

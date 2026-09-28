@@ -9,7 +9,7 @@ tags:
 | Hit Point Dice                  | D12 per level                                                                                       |
 | Skill Proficiencies             | **Choose 3:** Crafting, Endurance, Intimidation, Leadership, Perception, Sleight, Stealth, Survival |
 | Weapon Proficiencies            | **Choose 1:** Any Simple Weapon                                                                     |
-| Tool and Language Proficiencies | **Choose 2:** Trapping Kit, Poison Kit, Medicine Kit, Angling Kit                                   |
+| Tool and Language Proficiencies | **Choose 2:** Trapping Kit, Poison Kit, Healing Kit, Angling Kit                                    |
 | Starting Equipment              |                                                                                                     |
 
 ###### Shifter Core Features

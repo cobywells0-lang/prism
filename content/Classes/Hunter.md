@@ -9,7 +9,7 @@ tags:
 | Hit Point Dice                  | D10 per level                                                                                    |
 | Skill Proficiencies             | **Choose 2:** Sabotage, Stealth, Mobility, Endurance, Perception, Survival, Crafting, Leadership |
 | Weapon Proficiencies            | **Choose 2:** Any Simple or Specialist Weapon                                                    |
-| Tool and Language Proficiencies | **Choose 2:** Trapping Kit, Angling Kit, Medicine Kit, any Mortal Language                       |
+| Tool and Language Proficiencies | **Choose 2:** Trapping Kit, Angling Kit, Healing Kit, any Mortal Language                        |
 | Starting Equipment              |                                                                                                  |
 
 ###### Hunter Core Features

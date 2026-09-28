@@ -1,7 +1,3 @@
----
-tags:
-  - Level_1
----
 **Prerequisites:** Class: [[Arcanist]], [[Assassin]], [[Brawler]], [[Hunter]], [[Shifter]], [[Swashbuckler]], [[Warrior]]
 
 | Level    | Cast Actions | Stats            | Range    |

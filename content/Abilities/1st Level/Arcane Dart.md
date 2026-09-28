@@ -1,7 +1,3 @@
----
-tags:
-  - Level_1
----
 **Prerequisites:** Class: [[Arcanist]], [[Assassin]], [[Deadeye]], [[Gambler]], [[Magus]], [[Witch]]
 
 | Level    | Cast Actions | Stats                | Range    |

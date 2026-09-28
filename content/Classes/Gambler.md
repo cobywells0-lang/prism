@@ -9,7 +9,7 @@ tags:
 | Hit Point Dice                  | D10 per level                                                                                      |
 | Skill Proficiencies             | **Choose 2:** Balance, Deception, Forgery, Insight, Intimidation, Performance, Persuasion, Sleight |
 | Weapon Proficiencies            | **Choose 2:** Any Simple or Specialist Weapon                                                      |
-| Tool and Language Proficiencies | **Choose 2:** Any Gaming kit, Brewer’s kit, and Mortal Language                                    |
+| Tool and Language Proficiencies | **Choose 2:** Any Gaming Kit, Brewing Kit, any Mortal Language                                     |
 | Starting Equipment              |                                                                                                    |
 
 ###### Gambler Core Features

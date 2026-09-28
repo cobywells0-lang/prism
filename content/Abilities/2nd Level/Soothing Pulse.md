@@ -1,7 +1,3 @@
----
-tags:
-  - Level_1
----
 **Prerequisites:** Class: [[Arcanist]], [[Commander]], [[Magus]], [[Zealot]]
 
 | Level    | Cast Actions | Stats          | Range                     |

@@ -1,7 +1,3 @@
----
-tags:
-  - Level_1
----
 **Prerequisites:** Weapon: [[Arming Sword]], [[Gauntlet]], [[Shield]]
 
 | Level    | Cast Actions | Stats            | Range    |

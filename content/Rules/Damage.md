@@ -9,7 +9,7 @@ Many Abilities deal damage. When a creature takes damage, it loses that number o
 | Fire        | Heat Burns                        | Fire, Lava, Hot Metal                         |
 | Frost       | Frostbite, Cold Burns             | Blizzards, Ice                                |
 | Lightning   | Electrocution                     | Storms, Electricity                           |
-| Mental      | Draining or Poisoning of the Mind | Psychic Attacks, Trauma                       |
+| Psychic     | Draining or Poisoning of the Mind | Psionic Attacks, Trauma                       |
 | Piercing    | Puncture by a Point               | Stabbing and Ranged Weapons, Teeth and Spikes |
 | Slashing    | Lacerations and Slicing           | Sharp Weapons, Claws                          |
 | Thunder     | Concussion, Pressure              | Explosions, Sonic Weapons                     |

@@ -1,7 +1,3 @@
----
-tags:
-  - Level_2
----
 **Prerequisites:** Class: [[Arcanist]], [[Assassin]], [[Brawler]], [[Commander]], [[Gambler]], [[Hunter]], [[Sorcerer]], [[Swashbuckler]]
 
 | Level    | Cast Actions  | Stats          | Range    |

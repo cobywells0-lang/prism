@@ -1,7 +1,3 @@
----
-tags:
-  - Level_2
----
 **Prerequisites:** Class: [[Arcanist]], [[Artisan]], [[Commander]], [[Deadeye]], [[Hunter]], [[Magus]], [[Shifter]], [[Sorcerer]], [[Swashbuckler]], [[Witch]]
 
 | Level    | Cast Actions | Stats          | Range    |

@@ -1,7 +1,3 @@
----
-tags:
-  - Level_1
----
 **Prerequisites:** Class: [[Assassin]], [[Deadeye]], [[Magus]], [[Sorcerer]], [[Zealot]]
 
 | Level    | Cast Actions | Stats          | Range    |

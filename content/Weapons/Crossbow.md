@@ -7,7 +7,7 @@ A crossbow is a weapon composed of a stiff bow and a stock. While the complex co
 
 | Level    | Cast Actions | Stats             | Range    |
 | -------- | ------------ | ----------------- | -------- |
-| 1        | 1 (reload 1) | Agi/Fin           | 150 feet |
+| 1        | 1 (reload 1) | Finesse/Agility   | 150 feet |
 | **Uses** | **Sustain**  | **Components**    | **Area** |
 | -        | -            | Weapon (crossbow) | -        |
 

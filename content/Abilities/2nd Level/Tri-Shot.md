@@ -1,7 +1,3 @@
----
-tags:
-  - Level_2
----
 **Prerequisites:** Weapon: [[Crossbow]], [[Kunai]], [[Longbow]]
 
 | Level    | Cast Actions | Stats            | Range                    |

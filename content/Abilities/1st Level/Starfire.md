@@ -1,7 +1,3 @@
----
-tags:
-  - Level_1
----
 **Prerequisites:** Class: [[Commander]], [[Gambler]], [[Sorcerer]], [[Swashbuckler]], [[Witch]], [[Zealot]]
 
 | Level    | Cast Actions | Stats          | Range           |

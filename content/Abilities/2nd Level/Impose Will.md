@@ -1,7 +1,3 @@
----
-tags:
-  - Level_2
----
 **Prerequisites:** Class: [[Artisan]], [[Commander]], [[Gambler]], [[Sorcerer]], [[Witch]], [[Zealot]]
 
 | Level    | Cast Actions | Stats             | Range    |

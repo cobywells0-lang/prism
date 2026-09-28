@@ -1,4 +1,4 @@
-**Prerequisites:** Tool: Healer's Kit
+**Prerequisites:** Tool: [[Healing Kit]]
 
 | Level    | Cast Actions | Stats          | Range    |
 | -------- | ------------ | -------------- | -------- |

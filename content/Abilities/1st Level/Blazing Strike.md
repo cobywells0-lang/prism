@@ -1,7 +1,3 @@
----
-tags:
-  - Level_1
----
 **Prerequisites:** Class: [[Artisan]], [[Brawler]], [[Commander]], [[Gambler]], [[Magus]], [[Shifter]], [[Sorcerer]], [[Swashbuckler]], [[Warrior]], [[Zealot]]
 
 | Level    | Cast Actions | Stats          | Range    |

@@ -1,7 +1,3 @@
----
-tags:
-  - Level_3
----
 **Prerequisites:** Ability: [[Fadewalk]]
 
 | Level    | Cast Actions | Stats                 | Range    |

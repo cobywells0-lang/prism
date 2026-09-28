@@ -1,7 +1,3 @@
----
-tags:
-  - Level_3
----
 **Prerequisites:** Class: [[Arcanist]], [[Artisan]], [[Brawler]], [[Hunter]], [[Magus]], [[Shifter]], [[Sorcerer]]
 
 | Level    | Cast Actions  | Stats                 | Range                    |

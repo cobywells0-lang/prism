@@ -1,7 +1,3 @@
----
-tags:
-  - Level_2
----
 **Prerequisites:** Weapon: [[Arming Sword]], [[Buckler]], [[Crossbow]], [[Dagger]], [[Gauntlet]], [[Kama]], [[Rapier]]
 
 | Level    | Cast Actions | Stats            | Range    |

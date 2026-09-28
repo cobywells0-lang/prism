@@ -1,8 +1,4 @@
----
-tags:
-  - Level_2
----
-**Prerequisites:** Tool: Disguise Kit
+**Prerequisites:** Tool: [[Disguise Kit]]
 
 | Level    | Cast Actions | Stats                | Range    |
 | -------- | ------------ | -------------------- | -------- |

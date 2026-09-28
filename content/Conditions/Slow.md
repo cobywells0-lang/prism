@@ -1,0 +1,1 @@
+While Slow, you are unable to move as quickly as usual. Whenever you move, you can move 5 feet less per stack of Slow.

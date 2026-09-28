@@ -1,7 +1,3 @@
----
-tags:
-  - Level_1
----
 **Prerequisites:** Class: [[Arcanist]], [[Artisan]], [[Commander]], [[Hunter]], [[Magus]], [[Sorcerer]], [[Witch]]
 
 | Level    | Cast Actions | Stats                 | Range    |

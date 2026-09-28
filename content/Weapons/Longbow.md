@@ -7,7 +7,7 @@ A Longbow is a large weapon used to fire arrows as ammunition. While they requir
 
 | Level    | Cast Actions | Stats            | Range    |
 | -------- | ------------ | ---------------- | -------- |
-| 1        | 3            | Fin/Phy          | 300 feet |
+| 1        | 3            | Finesse/Physique | 300 feet |
 | **Uses** | **Sustain**  | **Components**   | **Area** |
 | -        | -            | Weapon (longbow) | -        |
 

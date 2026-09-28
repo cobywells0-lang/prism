@@ -1,7 +1,3 @@
----
-tags:
-  - Level_1
----
 **Prerequisites:** Weapon: [[Arming Sword]], [[Dagger]], [[Gauntlet]], [[Halberd]], [[Kama]], [[Meteor Hammer]], [[Rapier]]
 
 | Level    | Cast Actions | Stats            | Range    |

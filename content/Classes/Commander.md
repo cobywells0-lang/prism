@@ -9,7 +9,7 @@ tags:
 | Hit Point Dice                  | D8 per level                                                                                      |
 | Skill Proficiencies             | **Choose 3:** Forgery, Mobility, Might, Insight, Deception, Investigation, Persuasion, Leadership |
 | Weapon Proficiencies            | **Choose 1:** Any Simple or Specialist Weapon                                                     |
-| Tool and Language Proficiencies | **Choose 2:** Calligraphy Kit, Medicine Kit, Brewing Kit, any Mortal Language                     |
+| Tool and Language Proficiencies | **Choose 2:** Calligraphy Kit, Healing Kit, Brewing Kit, any Mortal Language                      |
 | Starting Equipment              |                                                                                                   |
 
 ###### Commander Core Features

@@ -9,7 +9,7 @@ tags:
 | Hit Point Dice                  | D12 per level                                                                               |
 | Skill Proficiencies             | **Choose 2:** Balance, Mobility, Might, Endurance, Sleight, Survival, Deception, Leadership |
 | Weapon Proficiencies            | **Choose 3:** Any Simple or Specialist Weapon                                               |
-| Tool and Language Proficiencies | **Choose 1:** Brewing Kit, Climbing Kit, Carpentry Kit, any Mortal Language                 |
+| Tool and Language Proficiencies | **Choose 1:** Brewing Kit, Climbing Kit, any Gaming Kit, any Mortal Language                |
 | Starting Equipment              |                                                                                             |
 
 ###### Brawler Core Features
