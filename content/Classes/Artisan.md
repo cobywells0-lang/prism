@@ -48,8 +48,8 @@ As an Activity you can use a tool you are proficient with to create one product 
 | Alchemy Kit    | Alchemist’s Fire  |
 | Poison Kit     | Basic Poison      |
 | Cooking Kit    | Hearty Rations    |
-| Medicine Kit   | Potion of Healing |
-| Explosives Kit | Basic Bomb        |
+| Healing Kit    | Potion of Healing |
+
 
 The number of products you can create as an Activity increases when you reach Artisan levels 4 (2), 8 (3), 12 (4) and 16 (5).
 

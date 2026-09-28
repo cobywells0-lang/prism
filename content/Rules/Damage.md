@@ -5,7 +5,7 @@ Many Abilities deal damage. When a creature takes damage, it loses that number o
 | Acid        | Chemical Burns and Corrosion      | Corrosive Liquids, Digestive Enzymes          |
 | Anima       | Magical Impact                    | Pure Magic, Arcane Forces                     |
 | Bludgeoning | Heavy Blunt Impact                | Blunt Weapons, Falling                        |
-| Corrupting  | Draining or Poisoning of the Soul | Curses, Spectres                              |
+| Corruption  | Draining or Poisoning of the Soul | Curses, Spectres                              |
 | Fire        | Heat Burns                        | Fire, Lava, Hot Metal                         |
 | Frost       | Frostbite, Cold Burns             | Blizzards, Ice                                |
 | Lightning   | Electrocution                     | Storms, Electricity                           |

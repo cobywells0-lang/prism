@@ -18,6 +18,10 @@ Your Class determines the archetypes your character can fill, and is arguably th
 
 Choose one Class, and gain everything from that class's Traits Table, as well as any Abilities that level 1 in that class grants.
 
+### Learnt Abilities
+
+At Level 1, you are able to learn 2 Learnt Abilities. These are the abilities that distinguish your character from others of the same species and class. See more information on Learnt Abilities [[Abilities|here]].
+
 ### Starting At Higher Levels
 
 When starting at a character level greater than 1, you should typically construct the character as if you started at level 1 and then levelled up to your desired starting level, one level at a time. 

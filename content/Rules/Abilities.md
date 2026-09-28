@@ -1,4 +1,4 @@
-Abilities are self-contained descriptions of feats you are capable of performing reliably and consistently. While they do not represent the absolute limit of what you are capable of, they are the main mechanic by which you can customise your character. Abilities fall under one of three categories.
+Abilities are self-contained descriptions of feats you are capable of performing reliably and consistently. While they do not represent the absolute limit of what you are capable of, they are the main mechanic by which you can customise your character. Abilities fall under one of four categories.
 
 ### Core Class Abilities.
 

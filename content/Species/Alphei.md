@@ -19,7 +19,7 @@ You cannot be disarmed of this weapon while you live. If it is amputated while y
 
 | Level    | Cast Actions | Stats                      | Range    |
 | -------- | ------------ | -------------------------- | -------- |
-| -        | 2            | Fin/Ins                    | 30ft     |
+| -        | 2            | Finesse/Instinct           | 30ft     |
 | **Uses** | **Sustain**  | **Components**             | **Area** |
 | -        | -            | Weapon (Cavitation Cannon) | -        |
 
