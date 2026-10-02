@@ -2,20 +2,14 @@
 
 // put your custom CSS here!
 article table {
-  font-size: 0.75rem;
-  width: auto;
   table-layout: auto;
+  width: auto;
 }
 
 article table th,
 article table td {
-  padding: 0.15rem 0.3rem;
   min-width: 0 !important;
-}
-
-article table th:nth-child(n+5),
-article table td:nth-child(n+5) {
-  width: 1%;
-  white-space: nowrap;
-  text-align: center;
+  width: auto !important;
+  white-space: normal;
+  padding: 0.15rem 0.3rem;
 }
