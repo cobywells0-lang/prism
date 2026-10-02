@@ -14,7 +14,7 @@ tags:
 
 ###### Shifter Core Features
 
-| Level | Proficiency Bonus | Learnt Abilities | Class Abilities                | Primal Energy |
+| Level | Proficiency Bonus | Learnt Abilities | Class Features                 | Primal Energy |
 | ----- | ----------------- | ---------------- | ------------------------------ | ------------- |
 | 1     | +2                | 2                | Primal Energy, Bestial Weapons | 4             |
 | 2     | +2                | 3                | Natural Armour, Swiftness      | 5             |

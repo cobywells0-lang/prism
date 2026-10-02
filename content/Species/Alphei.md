@@ -14,12 +14,12 @@ You can breathe normally in both air and water. You have a Swim speed of 20 feet
 
 In place of one hand, you have a natural cannon. This cannon is a one-handed ranged weapon that you have Proficiency with. For the purposes of ability prerequisites, the cavitation cannon counts as a [[crossbow]].
 
-You cannot be disarmed of this weapon while you live. If it is amputated while you live, a hand will regrow in its place, and your existing hand will grow into a new Cavitation Cannon, across the span of one week.
+You cannot be disarmed of this weapon while you live. If it is amputated while you live, a hand will regrow in its place, and your opposite hand will grow into a new Cavitation Cannon, across the span of one week.
 #### Cavitation Cannon Basic Attack
 
 | Level    | Cast Actions | Stats                      | Range    |
 | -------- | ------------ | -------------------------- | -------- |
-| -        | 2            | Finesse/Instinct           | 30ft     |
+| -        | 2            | Finesse/Instinct           | 60ft     |
 | **Uses** | **Sustain**  | **Components**             | **Area** |
 | -        | -            | Weapon (Cavitation Cannon) | -        |
 

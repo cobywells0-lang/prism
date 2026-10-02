@@ -11,4 +11,4 @@ A halberd is a large polearm, sporting an axe-like cutting head atop a long shaf
 | **Uses** | **Sustain**  | **Components**   | **Area** |
 | -        | -            | Weapon (halberd) | -        |
 
-You cut or thrust with a halberd. Make a melee attack against one creature within range. On a hit, it takes 3d10 Slashing/Piercing damage.
+You cut or thrust with a halberd. Make a melee attack against one creature within range. On a hit, it takes 3d12 Slashing/Piercing damage.

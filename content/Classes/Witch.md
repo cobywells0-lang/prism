@@ -14,7 +14,7 @@ tags:
 
 ###### Witch Core Features
 
-| Level | Proficiency Bonus | Learnt Abilities | Class Abilities         |
+| Level | Proficiency Bonus | Learnt Abilities | Class Features          |
 | ----- | ----------------- | ---------------- | ----------------------- |
 | 1     | +2                | 2                | Hex                     |
 | 2     | +2                | 3                |                         |
@@ -40,7 +40,7 @@ tags:
 | ------------ | -------------------- | --------------------- | -------- |
 | 1            | -                    | Instinct/Intelligence | 60 feet  |
 | **Uses**     | **Sustain Duration** | **Components**        | **Area** |
-| 2/LR         | 1 Minute             | Somantic              | -        |
+| 2/LR         | 1 Minute             | Magic                 | -        |
 
 You can curse your foes to wither. As an Action you can Hex one creature within range. When you cast Hex, and each time you Sustain it, the target takes 1d8 Corruption damage. An affected creature can break the curse by making a Soul saving throw with two Actions. On a success the Hex ends. 
 

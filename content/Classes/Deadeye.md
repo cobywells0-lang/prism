@@ -14,17 +14,17 @@ tags:
 
 ###### Deadeye Core Features
 
-| Level | Proficiency Bonus | Learnt Abilities | Class Abilities         |
+| Level | Proficiency Bonus | Learnt Abilities | Class Features          |
 | ----- | ----------------- | ---------------- | ----------------------- |
-| 1     | +2                | 2                |                         |
-| 2     | +2                | 3                |                         |
+| 1     | +2                | 2                | Called Shots            |
+| 2     | +2                | 3                | Take Aim                |
 | 3     | +2                | 4                | Stat Increase, Subclass |
-| 4     | +2                | 5                |                         |
-| 5     | +3                | 6                | Pre-emptive Strike      |
+| 4     | +2                | 5                | Lined-Up                |
+| 5     | +3                | 6                | Keen Eye                |
 | 6     | +3                | 6                | Subclass Ability        |
 | 7     | +3                | 7                | Stat Increase           |
-| 8     | +3                | 7                |                         |
-| 9     | +4                | 8                | Extra Action            |
+| 8     | +3                | 7                | Kill Confirmed          |
+| 9     | +4                | 8                | Extra Action, Meatshots |
 | 10    | +4                | 8                | Subclass Ability        |
 | 11    | +4                | 9                | Stat Increase           |
 | 12    | +4                | 9                |                         |
@@ -33,9 +33,29 @@ tags:
 | 15    | +5                | 11               | Stat Increase           |
 | 16    | +5                | 11               |                         |
 
-## Level 1:
+## Level 1: Called Shots
 
-## Level 2:
+Your composure in combat is equal parts inspiring and uncanny. When you score a Critical Hit, you can choose where your strike lands. The target must make a Physique saving throw (DC Finesse/Instinct). On a failure, it suffers one of the following effect, depending on where you choose to strike.
+
+| Body Part | Effect                                                                          |
+| --------- | ------------------------------------------------------------------------------- |
+| Head      | The target takes 1d8 Vitalic damage.                                            |
+| Arm       | The target has Disadvantage on the first attack roll it makes on its next turn. |
+| Leg       | The target is Slow 2 until the end of its next turn.                            |
+
+## Level 2: Take Aim
+
+| Level | Cast Actions | Stats      | Range |
+| ----- | ------------ | ---------- | ----- |
+| -     | 1            | -          | Self  |
+|       | **Sustain**      | **Components** | **Area**  |
+|       | -            | Innate     | -     |
+
+As an Action you prepare to strike. The next attack you make before the end of your turn is Precise.
+
+A Precise attack is made with Advantage. On a hit, it deals an extra 1d10 damage.
+
+You can cast this ability a number of times equal to your Instinct bonus, and regain all expended uses when you finish a Short or Long Rest.
 
 ## Level 3: Stat Increase
 
@@ -49,21 +69,27 @@ You gain a Deadeye subclass of your choice. A subclass is a specialization that 
 
 Desperado, Duelist, Sniper, 
 
-## Level 4:
+## Level 4: Lined-Up
 
-## Level 5: Pre-emptive Strike
+The first attack you make after rolling Initiative is Precise.
+## Level 5: Keen Eye
 
-You’ve lined up your strike before others realise the fight has begun. Immediately after you roll Initiative, you can move up to your Speed and make a 1 Action Attack.
+When you roll Initiative, or as an Action, you can assess the defences of one creature you can see within 60 feet. You learn any Damage Reductions, Damage Vulnerabilities, Condition Resistances and Condition Immunities that creature has.
 
-## Level 6:
+## Level 8: Kill Confirmed
 
-## Level 8:
+Whenever you reduce an enemy to zero hit points with a Precise attack, you regain one expended use of your Take Aim ability.
 
 ## Level 9: Extra Action
 
 You become more fluid and decisive in combat. You can take four Actions on your turn, instead of three. 
 
-## Level 12:
+### Level 9: Meatshots
+
+You know exactly where to hit to make it hurt. You score a Critical Hit when you roll 1 below the target's Critical Threshold, or above, on the attack roll.
+
+When you reach Deadeye level 16, you instead score a Critical Hit when you roll 2 below the target's Critical Threshold, or above, on the attack roll.
+## Level 12: 
 
 ## Level 13:
 

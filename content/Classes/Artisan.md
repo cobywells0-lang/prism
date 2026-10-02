@@ -14,7 +14,7 @@ tags:
 
 ###### Artisan Core Features
 
-| Level | Proficiency Bonus | Learnt Abilities | Class Abilities                 |
+| Level | Proficiency Bonus | Learnt Abilities | Class Features                  |
 | ----- | ----------------- | ---------------- | ------------------------------- |
 | 1     | +2                | 2                | Artisanal Craft                 |
 | 2     | +2                | 3                |                                 |
@@ -59,7 +59,7 @@ The number of products you can create as an Activity increases when you reach Ar
 
 Increase one of your two lowest stats by +1 (if multiple stats are tied for second lowest, any tied stat is valid). Then increase any one stat of your choice by +1, to a maximum of +5. 
 
-You gain this ability again at Artisan levels 7, 11 and 15.
+You gain this feature again at Artisan levels 7, 11 and 15.
 
 ## Level 3: Artisan Subclass
 

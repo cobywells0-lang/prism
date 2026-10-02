@@ -14,7 +14,7 @@ tags:
 
 ###### Swashbuckler Core Features
 
-| Level | Proficiency Bonus | Learnt Abilities | Class Abilities                        |
+| Level | Proficiency Bonus | Learnt Abilities | Class Features                         |
 | ----- | ----------------- | ---------------- | -------------------------------------- |
 | 1     | +2                | 2                | Duel Me!                               |
 | 2     | +2                | 3                | Adrenaline, Adrenaline Rush, Swiftness |

@@ -14,13 +14,13 @@ tags:
 
 ###### Brawler Core Features
 
-| Level | Proficiency Bonus | Learnt Abilities | Class Abilities         |
+| Level | Proficiency Bonus | Learnt Abilities | Class Features          |
 | ----- | ----------------- | ---------------- | ----------------------- |
 | 1     | +2                | 2                | Dirty Fighting          |
 | 2     | +2                | 3                | Battlecry, Swiftness    |
 | 3     | +2                | 4                | Stat Increase, Subclass |
 | 4     | +2                | 5                | Adaptive Guard          |
-| 5     | +3                | 6                |                         |
+| 5     | +3                | 6                | War Leader              |
 | 6     | +3                | 6                | Subclass Ability        |
 | 7     | +3                | 7                | Stat Increase           |
 | 8     | +3                | 7                | Fearless Cry            |
@@ -41,15 +41,15 @@ tags:
 | **Uses** | **Sustain**  | **Components**   | **Area** |
 | -        | -            | Innate           | -        |
 
-As an Action immediately after you hit a creature with a Melee attack, you can perform one of the following options:
+As an Action immediately after you hit a creature with a melee attack, you can perform one of the following options:
 
-**Grab.** The target must make an Agility saving throw. On a failure, it is Grappled by you.
+**Grab.** The target must make an Agility saving throw. On a failure, it is [[Grappled]] by you.
 
-**Trip.** The target must make an Agility saving throw. On a failure, it falls Prone.
+**Trip.** The target must make an Agility saving throw. On a failure, it falls [[Prone]].
 
 **Shove.** The target must make a Physique saving throw. On a failure, it is pushed up to 10 feet in a direction of your choice.
 
-Additionally, if you are Grappling two creatures, you can knock their heads together with two Actions. Each target must make a Physique saving throw. On a failure, it takes 2d6 Bludgeoning damage and is Dazed 2 until the end of its next turn. On a success, it takes half damage only. Both targets are no longer Grappled.
+Additionally, if you are [[Grappled|Grappling]] two creatures, you can knock their heads together with two Actions. Each target must make a Physique saving throw. On a failure, it takes 2d6 Bludgeoning damage and is [[Dazed]] 2 until the end of its next turn. On a success, it takes half damage only. Both targets are no longer [[Grappled]].
 
 ## Level 2: Battlecry
 
@@ -59,7 +59,7 @@ Additionally, if you are Grappling two creatures, you can knock their heads toge
 | **Uses** | **Sustain**  | **Components** | **Area** |
 | 4/LR     | 1 Minute     | Innate         | -        |
 
-As an Action you let out a ferocious war cry, redoubling your efforts. You gain a number of Temporary Hit Points equal to 5 plus twice your Brawler level. While you have these Temporary Hit Points, your Melee attacks deal additional damage equal to your Physique bonus and you have Advantage on Endurance, Intimidation and Might checks.
+As an Action you let out a ferocious war cry, redoubling your efforts. You gain a number of Temporary Hit Points equal to 5 plus twice your Brawler level. While you have these Temporary Hit Points, your melee attacks deal additional damage equal to your Physique bonus and you have Advantage on Endurance, Intimidation and Might checks.
 
 If any of these Temporary Hit Points remain after 1 minute, they disappear. You can cast this ability four times, and regain all expended uses when you finish a Long Rest.
 
@@ -71,13 +71,13 @@ Your fighting spirit grants you greater mobility. Your Speed increases by 5 feet
 
 Increase one of your two lowest stats by +1 (if multiple stats are tied for second lowest, any tied stat is valid). Then increase any one stat of your choice by +1, to a maximum of +5. 
 
-You gain this ability again at Brawler levels 7, 11 and 15.
+You gain this feature again at Brawler levels 7, 11 and 15.
 
 ## Level 3: Brawler Subclass
 
 You gain a Brawler subclass of your choice. A subclass is a specialization that grants you features at certain Brawler levels. For the rest of your career, you gain each of your subclass’s features that are of your Brawler level or lower.
 
-Berzerker
+Berzerker, Wrestler, Monk
 
 ## Level 4: Adaptive Guard
 
@@ -89,7 +89,7 @@ Berzerker
 
 As an Action you can raise your guard against incoming attacks. You gain a bonus to your Armour Class equal to the number of Enemies within 5 feet. This bonus lasts until the start of your next turn.
 
-You can cast this Ability four times, and regain all expended uses when you finish a Long Rest.
+You can cast this feature four times, and regain all expended uses when you finish a Long Rest.
 
 ## Level 5: War Leader
 

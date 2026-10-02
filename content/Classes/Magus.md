@@ -9,12 +9,12 @@ tags:
 | Hit Point Dice                  | D8 per level                                                                                      |
 | Skill Proficiencies             | **Choose 2:** Sleight, Forgery, Balance, Might, Perception, Deception, Investigation, Performance |
 | Weapon Proficiencies            | **Choose 3:** Any Simple or Specialist Weapon                                                     |
-| Tool and Language Proficiencies | **Choose 1:** Any Tool and Language                                                               |
+| Tool and Language Proficiencies | **Choose 1:** Any Tool or Language                                                                |
 | Starting Equipment              |                                                                                                   |
 
 ###### Magus Core Features
 
-| Level | Proficiency Bonus | Learnt Abilities | Class Abilities         | Sigils |
+| Level | Proficiency Bonus | Learnt Abilities | Class Features          | Sigils |
 | ----- | ----------------- | ---------------- | ----------------------- | ------ |
 | 1     | +2                | 2                | Sigil Stance            | 1      |
 | 2     | +2                | 3                | Swiftness               | 2      |

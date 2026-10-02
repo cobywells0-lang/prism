@@ -12,4 +12,4 @@ In order to score a Critical Hit, you must roll equal to or greater than a value
 
 When you score a Critical Hit, the target takes additional damage equal to a number of rolls of the attack's first listed damage die equal to your Finesse bonus.
 
-For example, if you score a Critical Hit on an attack that deals 1d6 Piercing damage and 1d8 Poison damage, and you have a Finesse bonus of +3, the target takes a total of 4d6 Piercing damage and 1d8 Poison damage.
+For example, if you score a Critical Hit on an attack that deals 1d6 Piercing damage and 1d8 Vitalic damage, and you have a Finesse bonus of +3, the target takes a total of 4d6 Piercing damage and 1d8 Vitalic damage.

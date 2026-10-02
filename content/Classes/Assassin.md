@@ -14,7 +14,7 @@ tags:
 
 ###### Assassin Core Features
 
-| Level | Proficiency Bonus | Learnt Abilities | Class Abilities         |
+| Level | Proficiency Bonus | Learnt Abilities | Class Features          |
 | ----- | ----------------- | ---------------- | ----------------------- |
 | 1     | +2                | 2                | Assassinate             |
 | 2     | +2                | 3                | Out of Sight, Swiftness |
@@ -61,7 +61,7 @@ Your time in the field has granted you greater mobility. Your Speed increases by
 
 Increase one of your two lowest stats by +1 (if multiple stats are tied for second lowest, any tied stat is valid). Then increase any one stat of your choice by +1, to a maximum of +5. 
 
-You gain this ability again at Assassin levels 7, 11 and 15.
+You gain this feature again at Assassin levels 7, 11 and 15.
 
 ## Level 3: Assassin Subclass
 
@@ -69,7 +69,7 @@ You gain an Assassin subclass of your choice. A subclass is a specialization tha
 
 ## Level 4: Cloak and Dagger
 
-A hidden blade is a dangerous one. While you are within reach of only one Enemy, you have Advantage on the first Melee Attack you make on your turn.
+A hidden blade is a dangerous one. While you are within reach of only one Enemy, you have Advantage on the first melee attack you make on your turn.
 
 ## Level 5: Pre-emptive Strike
 

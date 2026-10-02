@@ -14,7 +14,7 @@ tags:
 
 ###### Hunter Core Features
 
-| Level | Proficiency Bonus | Learnt Abilities | Class Abilities         |
+| Level | Proficiency Bonus | Learnt Abilities | Class Features          |
 | ----- | ----------------- | ---------------- | ----------------------- |
 | 1     | +2                | 2                |                         |
 | 2     | +2                | 3                | Swiftness               |

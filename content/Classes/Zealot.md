@@ -14,12 +14,12 @@ tags:
 | Starting Equipment              |                                                                                                     |
 ###### Zealot Core Features
 
-| Level | Proficiency Bonus | Learnt Abilities | Class Abilities         |
+| Level | Proficiency Bonus | Learnt Abilities | Class Features          |
 | ----- | ----------------- | ---------------- | ----------------------- |
 | 1     | +2                | 2                | Relic                   |
 | 2     | +2                | 3                | Otherworldly Spark      |
 | 3     | +2                | 4                | Stat Increase, Subclass |
-| 4     | +2                | 5                | Commandment             |
+| 4     | +2                | 5                |                         |
 | 5     | +3                | 6                |                         |
 | 6     | +3                | 6                | Subclass Ability        |
 | 7     | +3                | 7                | Stat Increase           |

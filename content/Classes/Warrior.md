@@ -14,7 +14,7 @@ tags:
 
 ###### Warrior Core Features
 
-| Level | Proficiency Bonus | Learnt Abilities | Class Abilities                 |
+| Level | Proficiency Bonus | Learnt Abilities | Class Features                  |
 | ----- | ----------------- | ---------------- | ------------------------------- |
 | 1     | +2                | 2                | Battle Stamina                  |
 | 2     | +2                | 3                | Weapon Master, Swiftness        |

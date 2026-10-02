@@ -26,4 +26,4 @@ You can produce up to two invisible arcane motes at points within 5 feet of your
 | **Uses**  | **Sustain**      | **Components** | **Area**  |
 | 1/LR  | -            | Innate     | -     |
 
-You can shed your skin as an Action. If you are [[Burning]], Frozen, Grappled or Restrained, you lose those conditions. Once you use this Ability, you cannot use it again until you finish a Long Rest.
+You can shed your skin as an Action. If you are [[Burning]], [[Grappled]] or [[Restrained]], you lose those conditions. Once you use this Ability, you cannot use it again until you finish a Long Rest.

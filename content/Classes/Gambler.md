@@ -14,7 +14,7 @@ tags:
 
 ###### Gambler Core Features
 
-| Level | Proficiency Bonus | Learnt Abilities | Class Abilities         |
+| Level | Proficiency Bonus | Learnt Abilities | Class Features          |
 | ----- | ----------------- | ---------------- | ----------------------- |
 | 1     | +2                | 2                | Heart of the Dice       |
 | 2     | +2                | 3                |                         |

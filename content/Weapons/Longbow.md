@@ -11,4 +11,4 @@ A Longbow is a large weapon used to fire arrows as ammunition. While they requir
 | **Uses** | **Sustain**  | **Components**   | **Area** |
 | -        | -            | Weapon (longbow) | -        |
 
-You loose an arrow from a longbow. Make a ranged attack against one creature within range. On a hit, it takes 3d8 Piercing damage.
+You loose an arrow from a longbow. Make a ranged attack against one creature within range. On a hit, it takes 3d10 Piercing damage.

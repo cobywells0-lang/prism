@@ -20,42 +20,40 @@ An Arcanist is a problem solver, first and foremost. They utilise precisely stru
 
 ###### Arcanist Features
 
-| Level | Proficiency Bonus | Learnt Abilities | Class Abilities         |
-| ----- | ----------------- | ---------------- | ----------------------- |
-| 1     | +2                | 2                | Flexible Mind           |
-| 2     | +2                | 3                | Arcane Flow, Swiftness  |
-| 3     | +2                | 4                | Stat Increase, Subclass |
-| 4     | +2                | 5                | Mould Anima             |
-| 5     | +3                | 6                | Enhanced Flow           |
-| 6     | +3                | 6                | Subclass Ability        |
-| 7     | +3                | 7                | Stat Increase           |
-| 8     | +3                | 7                |                         |
-| 9     | +4                | 8                | Extra Action            |
-| 10    | +4                | 8                | Subclass Ability        |
-| 11    | +4                | 9                | Stat Increase           |
-| 12    | +4                | 9                |                         |
-| 13    | +5                | 10               |                         |
-| 14    | +5                | 10               | Subclass Ability        |
-| 15    | +5                | 11               | Stat Increase           |
-| 16    | +5                | 11               |                         |
+| Level | Proficiency Bonus | Learnt Abilities | Class Features          | L1  | L2  | L3  | L4  | L5  | L6  | L7  | L8  |
+| ----- | ----------------- | ---------------- | ----------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1     | +2                | 2                | Flexible Mind           | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 2     | +2                | 3                | Arcane Flow, Swiftness  | 4   | -   | -   | -   | -   | -   | -   | -   |
+| 3     | +2                | 4                | Stat Increase, Subclass | 4   | 2   | -   | -   | -   | -   | -   | -   |
+| 4     | +2                | 5                | Mould Anima             | 4   | 3   | -   | -   | -   | -   | -   | -   |
+| 5     | +3                | 6                | Enhanced Flow           | 4   | 3   | 2   | -   | -   | -   | -   | -   |
+| 6     | +3                | 6                | Subclass Ability        | 4   | 4   | 3   | -   | -   | -   | -   | -   |
+| 7     | +3                | 7                | Stat Increase           | 5   | 4   | 3   | 1   | -   | -   | -   | -   |
+| 8     | +3                | 7                |                         | 5   | 4   | 4   | 2   | -   | -   | -   | -   |
+| 9     | +4                | 8                | Extra Action            | 5   | 4   | 4   | 3   | 1   | -   | -   | -   |
+| 10    | +4                | 8                | Subclass Ability        | 5   | 5   | 4   | 3   | 2   | -   | -   | -   |
+| 11    | +4                | 9                | Stat Increase           | 5   | 5   | 4   | 3   | 3   | 1   | -   | -   |
+| 12    | +4                | 9                |                         | 6   | 5   | 4   | 3   | 3   | 2   | -   | -   |
+| 13    | +5                | 10               |                         | 6   | 5   | 4   | 3   | 3   | 2   | 1   | -   |
+| 14    | +5                | 10               | Subclass Ability        | 6   | 5   | 4   | 3   | 3   | 2   | 2   | -   |
+| 15    | +5                | 11               | Stat Increase           | 6   | 5   | 4   | 3   | 3   | 2   | 2   | 1   |
+| 16    | +5                | 11               |                         | 6   | 5   | 4   | 3   | 3   | 3   | 2   | 1   |
 
 ## Level 1: Flexible Mind
 
-You learn one Arcanist cantrip of your choice.
+As an Activity you study new arcane techniques. Choose one Arcanist Talent you know of Level 1 or lower. You replace that Talent with another of the same level that you are eligible to learn.
 
-As an Activity you study new arcane techniques. Choose one Level 1 Magic Learnt ability you know. You replace that ability with another Magic Learnt ability of the same level that you are eligible to learn.
-
-The maximum level of abilities you can replace increases at Arcanist levels 7 (Level 2), 11 (Level 3) and 15 (Level 4).
+The maximum level of Talents you can replace increases at Arcanist levels 7 (Level 2), 11 (Level 3) and 15 (Level 4).
 
 ## Level 2: Arcane Flow
 
-When you expend a use of a Magic ability to cast that ability, the next different Magic ability you cast before the start of your next turn is Empowered.
+When you cast a Magic Talent of Level 1 or higher, the next Magic Talent you cast before the start of your next turn is Empowered.
 
-When you cast an Empowered ability, you can choose one of the following benefits:
+When you cast an Empowered Talent, you can choose one of the following benefits:
 
 **Dash.** You move up to half your Speed before or after casting. This movement does not trigger Reactions.
 
-**Reach.** If the Range of the ability is greater than 10 feet, the Range increases by a number of feet equal to 5 times the sum of your Agility and Intelligence bonuses. Otherwise, the Range becomes 15 feet for this casting.
+**Reach.** If the Range of the Talent is greater than 10 feet, the Range increases by a number of feet equal to 5 times the sum of your Agility and Intelligence bonuses. Otherwise, the Range increases to 15 feet.
 
 ## Level 2: Swiftness
 
@@ -65,7 +63,7 @@ Your training grants you greater mobility. Your Speed increases by 5 feet. This 
 
 Increase one of your two lowest stats by +1 (if multiple stats are tied for second lowest, any tied stat is valid). Then increase any one stat of your choice by +1, to a maximum of +5. 
 
-You gain this ability again at Arcanist levels 7, 11 and 15.
+You gain this feature again at Arcanist levels 7, 11 and 15.
 
 ## Level 3: Arcanist Subclass
 
@@ -86,9 +84,9 @@ If the function of the item depends upon a specific design (such as a key), you 
 An item made in this way has a number of Hit Points equal to your Ability modifier, and AC equal to 10 plus your Arcanist level and Intelligence bonus. If it falls to zero Hit Points, it is destroyed. It also disappears if you use this ability again to make a new item.
 ## Level 5: Enhanced Flow
 
-You learn more powerful ways to utilize the latent magic of your spells. When you cast an Empowered ability, you can instead choose one of the following benefits:
+You learn more powerful ways to utilize the latent magic of your spells. When you cast an Empowered Talent, you can instead choose one of the following benefits:
 
-**Stretch.** If the ability targets an area, that area is increased by 5 feet.
+**Stretch.** If the Talent targets an area, that area is increased by 5 feet.
 
 **Bolster.** You, or one Ally within 30 feet, gain a number of Temporary Hit Points equal to your Intelligence bonus.
 
