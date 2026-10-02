@@ -1,3 +1,14 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+article table {
+  font-size: 0.75rem;
+  width: fit-content;
+  margin-inline: auto;
+
+  th,
+  td {
+    padding: 0.15rem 0.35rem;
+    white-space: nowrap;
+  }
+}
