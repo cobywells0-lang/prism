@@ -26,3 +26,11 @@ You can choose which damage type the Ability deals each time you cast it.
 ### Weapon Damage
 
 An Ability may call for Weapon damage. In this case, the Ability deals damage of the same type as the Weapon used to cast it. If the Weapon can deal multiple types of damage, you choose which of those types the Ability uses.
+
+### Damage Reduction and Vulnerability
+
+Creatures may have Reduction and Vulnerability to certain damage types. Certain abilities, armours, and features may grant Reduction or impose Vulnerability.
+
+Damage Reduction reduces the amount of damage you take from instances of damage of that type by a specified amount. For example, if you have Bludgeoning Reduction 4 you would take only 1 Bludgeoning damage from an attack that would otherwise have dealt 5 Bludgeoning damage.
+
+Damage Vulnerability doubles the amount of damage you take of that type.

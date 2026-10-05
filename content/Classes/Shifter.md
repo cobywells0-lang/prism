@@ -14,24 +14,24 @@ tags:
 
 ###### Shifter Core Features
 
-| Level | Proficiency Bonus | Learnt Abilities | Class Features                 | Primal Energy |
-| ----- | ----------------- | ---------------- | ------------------------------ | ------------- |
-| 1     | +2                | 2                | Primal Energy, Bestial Weapons | 4             |
-| 2     | +2                | 3                | Natural Armour, Swiftness      | 5             |
-| 3     | +2                | 4                | Stat Increase, Subclass        | 6             |
-| 4     | +2                | 5                | Self Preservation              | 7             |
-| 5     | +3                | 6                | Preemptive Strike              | 8             |
-| 6     | +3                | 6                | Subclass Ability               | 8             |
-| 7     | +3                | 7                | Stat Increase, Bloodsense      | 9             |
-| 8     | +3                | 7                | Elemental Armour               | 9             |
-| 9     | +4                | 8                | Extra Action                   | 10            |
-| 10    | +4                | 8                | Subclass Ability               | 10            |
-| 11    | +4                | 9                | Stat Increase                  | 11            |
-| 12    | +4                | 9                |                                | 11            |
-| 13    | +5                | 10               |                                | 12            |
-| 14    | +5                | 10               | Subclass Ability               | 12            |
-| 15    | +5                | 11               | Stat Increase                  | 13            |
-| 16    | +5                | 11               |                                | 13            |
+| Level | Proficiency Bonus | Class Features                 | Primal Energy | Talents Known | L1  | L2  | L3  | L4  | L5  | L6  | L7  | L8  |
+| ----- | ----------------- | ------------------------------ | ------------- | ------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1     | +2                | Primal Energy, Bestial Weapons | 4             | 3             | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 2     | +2                | Natural Armour, Swiftness      | 5             | 4             | 4   | -   | -   | -   | -   | -   | -   | -   |
+| 3     | +2                | Stat Increase, Subclass        | 6             | 5             | 4   | 2   | -   | -   | -   | -   | -   | -   |
+| 4     | +2                | Self Preservation              | 7             | 6             | 4   | 3   | -   | -   | -   | -   | -   | -   |
+| 5     | +3                | Preemptive Strike              | 8             | 7             | 4   | 3   | 2   | -   | -   | -   | -   | -   |
+| 6     | +3                | Subclass Ability               | 8             | 8             | 4   | 4   | 3   | -   | -   | -   | -   | -   |
+| 7     | +3                | Stat Increase, Bloodsense      | 9             | 9             | 5   | 4   | 3   | 1   | -   | -   | -   | -   |
+| 8     | +3                | Elemental Armour               | 9             | 10            | 5   | 4   | 4   | 2   | -   | -   | -   | -   |
+| 9     | +4                | Extra Action                   | 10            | 11            | 5   | 4   | 4   | 3   | 1   | -   | -   | -   |
+| 10    | +4                | Subclass Ability               | 10            | 12            | 5   | 5   | 4   | 3   | 2   | -   | -   | -   |
+| 11    | +4                | Stat Increase                  | 11            | 13            | 5   | 5   | 4   | 3   | 3   | 1   | -   | -   |
+| 12    | +4                |                                | 11            | 14            | 6   | 5   | 4   | 3   | 3   | 2   | -   | -   |
+| 13    | +5                |                                | 12            | 15            | 6   | 5   | 4   | 3   | 3   | 2   | 1   | -   |
+| 14    | +5                | Subclass Ability               | 12            | 16            | 6   | 5   | 4   | 3   | 3   | 2   | 2   | -   |
+| 15    | +5                | Stat Increase                  | 13            | 17            | 6   | 5   | 4   | 3   | 3   | 2   | 2   | 1   |
+| 16    | +5                |                                | 13            | 18            | 6   | 5   | 4   | 3   | 3   | 3   | 2   | 1   |
 
 ## Level 1: Primal Energy
 

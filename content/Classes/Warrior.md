@@ -14,24 +14,24 @@ tags:
 
 ###### Warrior Core Features
 
-| Level | Proficiency Bonus | Learnt Abilities | Class Features                  |
-| ----- | ----------------- | ---------------- | ------------------------------- |
-| 1     | +2                | 2                | Battle Stamina                  |
-| 2     | +2                | 3                | Weapon Master, Swiftness        |
-| 3     | +2                | 4                | Stat Increase, Warrior Subclass |
-| 4     | +2                | 5                | Practiced Techniques            |
-| 5     | +3                | 6                | Overcome                        |
-| 6     | +3                | 6                | Subclass Ability                |
-| 7     | +3                | 7                | Stat Increase                   |
-| 8     | +3                | 7                | Redoubled Offence               |
-| 9     | +4                | 8                | Extra Action                    |
-| 10    | +4                | 8                | Subclass Ability                |
-| 11    | +4                | 9                | Stat Increase                   |
-| 12    | +4                | 9                | Stamina Wellspring              |
-| 13    | +5                | 10               | Subclass Ability                |
-| 14    | +5                | 10               | Technique Mastery               |
-| 15    | +5                | 11               | Stat Increase                   |
-| 16    | +5                | 11               | Subclass Ability                |
+| Level | Proficiency Bonus | Class Features                  | Talents Known | L1  | L2  | L3  | L4  | L5  | L6  | L7  | L8  |
+| ----- | ----------------- | ------------------------------- | ------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1     | +2                | Battle Stamina                  | 3             | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 2     | +2                | Weapon Master, Swiftness        | 4             | 4   | -   | -   | -   | -   | -   | -   | -   |
+| 3     | +2                | Stat Increase, Warrior Subclass | 5             | 4   | 2   | -   | -   | -   | -   | -   | -   |
+| 4     | +2                | Practiced Techniques            | 6             | 4   | 3   | -   | -   | -   | -   | -   | -   |
+| 5     | +3                | Overcome                        | 7             | 4   | 3   | 2   | -   | -   | -   | -   | -   |
+| 6     | +3                | Subclass Ability                | 8             | 4   | 4   | 3   | -   | -   | -   | -   | -   |
+| 7     | +3                | Stat Increase                   | 9             | 5   | 4   | 3   | 1   | -   | -   | -   | -   |
+| 8     | +3                | Redoubled Offence               | 10            | 5   | 4   | 4   | 2   | -   | -   | -   | -   |
+| 9     | +4                | Extra Action                    | 11            | 5   | 4   | 4   | 3   | 1   | -   | -   | -   |
+| 10    | +4                | Subclass Ability                | 12            | 5   | 5   | 4   | 3   | 2   | -   | -   | -   |
+| 11    | +4                | Stat Increase                   | 13            | 5   | 5   | 4   | 3   | 3   | 1   | -   | -   |
+| 12    | +4                | Stamina Wellspring              | 14            | 6   | 5   | 4   | 3   | 3   | 2   | -   | -   |
+| 13    | +5                | Subclass Ability                | 15            | 6   | 5   | 4   | 3   | 3   | 2   | 1   | -   |
+| 14    | +5                | Technique Mastery               | 16            | 6   | 5   | 4   | 3   | 3   | 2   | 2   | -   |
+| 15    | +5                | Stat Increase                   | 17            | 6   | 5   | 4   | 3   | 3   | 2   | 2   | 1   |
+| 16    | +5                | Subclass Ability                | 18            | 6   | 5   | 4   | 3   | 3   | 3   | 2   | 1   |
 ## Level 1: Battle Stamina
 
 Your martial training allows you to reserve your strength and push on when others falter.

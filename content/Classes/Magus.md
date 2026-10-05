@@ -14,24 +14,24 @@ tags:
 
 ###### Magus Core Features
 
-| Level | Proficiency Bonus | Learnt Abilities | Class Features          | Sigils |
-| ----- | ----------------- | ---------------- | ----------------------- | ------ |
-| 1     | +2                | 2                | Sigil Stance            | 1      |
-| 2     | +2                | 3                | Swiftness               | 2      |
-| 3     | +2                | 4                | Stat Increase, Subclass | 2      |
-| 4     | +2                | 5                |                         | 2      |
-| 5     | +3                | 6                |                         | 2      |
-| 6     | +3                | 6                |                         | 2      |
-| 7     | +3                | 7                | Stat Increase           | 2      |
-| 8     | +3                | 7                | Subclass Ability        | 2      |
-| 9     | +4                | 8                | Extra Action            | 3      |
-| 10    | +4                | 8                |                         | 3      |
-| 11    | +4                | 9                | Stat Increase           | 3      |
-| 12    | +4                | 9                |                         | 3      |
-| 13    | +5                | 10               | Subclass Ability        | 3      |
-| 14    | +5                | 10               |                         | 3      |
-| 15    | +5                | 11               | Stat Increase           | 3      |
-| 16    | +5                | 11               |                         | 3      |
+| Level | Proficiency Bonus | Class Features          | Talents Known | L1  | L2  | L3  | L4  | L5  | L6  | L7  | L8  |
+| ----- | ----------------- | ----------------------- | ------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1     | +2                | Sigil Stance            | 3             | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 2     | +2                | Swiftness               | 4             | 4   | -   | -   | -   | -   | -   | -   | -   |
+| 3     | +2                | Stat Increase, Subclass | 5             | 4   | 2   | -   | -   | -   | -   | -   | -   |
+| 4     | +2                |                         | 6             | 4   | 3   | -   | -   | -   | -   | -   | -   |
+| 5     | +3                |                         | 7             | 4   | 3   | 2   | -   | -   | -   | -   | -   |
+| 6     | +3                |                         | 8             | 4   | 4   | 3   | -   | -   | -   | -   | -   |
+| 7     | +3                | Stat Increase           | 9             | 5   | 4   | 3   | 1   | -   | -   | -   | -   |
+| 8     | +3                | Subclass Ability        | 10            | 5   | 4   | 4   | 2   | -   | -   | -   | -   |
+| 9     | +4                | Extra Action            | 11            | 5   | 4   | 4   | 3   | 1   | -   | -   | -   |
+| 10    | +4                |                         | 12            | 5   | 5   | 4   | 3   | 2   | -   | -   | -   |
+| 11    | +4                | Stat Increase           | 13            | 5   | 5   | 4   | 3   | 3   | 1   | -   | -   |
+| 12    | +4                |                         | 14            | 6   | 5   | 4   | 3   | 3   | 2   | -   | -   |
+| 13    | +5                | Subclass Ability        | 15            | 6   | 5   | 4   | 3   | 3   | 2   | 1   | -   |
+| 14    | +5                |                         | 16            | 6   | 5   | 4   | 3   | 3   | 2   | 2   | -   |
+| 15    | +5                | Stat Increase           | 17            | 6   | 5   | 4   | 3   | 3   | 2   | 2   | 1   |
+| 16    | +5                |                         | 18            | 6   | 5   | 4   | 3   | 3   | 3   | 2   | 1   |
 
 ## Level 1: Sigil Stance
 

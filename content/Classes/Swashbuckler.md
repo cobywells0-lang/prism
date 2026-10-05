@@ -14,24 +14,24 @@ tags:
 
 ###### Swashbuckler Core Features
 
-| Level | Proficiency Bonus | Learnt Abilities | Class Features                         |
-| ----- | ----------------- | ---------------- | -------------------------------------- |
-| 1     | +2                | 2                | Duel Me!                               |
-| 2     | +2                | 3                | Adrenaline, Adrenaline Rush, Swiftness |
-| 3     | +2                | 4                | Stat Increase, Subclass                |
-| 4     | +2                | 5                | Sea Legs                               |
-| 5     | +3                | 6                | Roguish Luck                           |
-| 6     | +3                | 6                |                                        |
-| 7     | +3                | 7                | Stat Increase                          |
-| 8     | +3                | 7                | Subclass Ability                       |
-| 9     | +4                | 8                | Extra Action                           |
-| 10    | +4                | 8                | Prideful Flourish                      |
-| 11    | +4                | 9                | Stat Increase                          |
-| 12    | +4                | 9                | Daring Escape                          |
-| 13    | +5                | 10               | Subclass Ability                       |
-| 14    | +5                | 10               |                                        |
-| 15    | +5                | 11               | Stat Increase                          |
-| 16    | +5                | 11               |                                        |
+| Level | Proficiency Bonus | Class Features                         | Talents Known | L1  | L2  | L3  | L4  | L5  | L6  | L7  | L8  |
+| ----- | ----------------- | -------------------------------------- | ------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1     | +2                | Duel Me!                               | 3             | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 2     | +2                | Adrenaline, Adrenaline Rush, Swiftness | 4             | 4   | -   | -   | -   | -   | -   | -   | -   |
+| 3     | +2                | Stat Increase, Subclass                | 5             | 4   | 2   | -   | -   | -   | -   | -   | -   |
+| 4     | +2                | Sea Legs                               | 6             | 4   | 3   | -   | -   | -   | -   | -   | -   |
+| 5     | +3                | Roguish Luck                           | 7             | 4   | 3   | 2   | -   | -   | -   | -   | -   |
+| 6     | +3                |                                        | 8             | 4   | 4   | 3   | -   | -   | -   | -   | -   |
+| 7     | +3                | Stat Increase                          | 9             | 5   | 4   | 3   | 1   | -   | -   | -   | -   |
+| 8     | +3                | Subclass Ability                       | 10            | 5   | 4   | 4   | 2   | -   | -   | -   | -   |
+| 9     | +4                | Extra Action                           | 11            | 5   | 4   | 4   | 3   | 1   | -   | -   | -   |
+| 10    | +4                | Prideful Flourish                      | 12            | 5   | 5   | 4   | 3   | 2   | -   | -   | -   |
+| 11    | +4                | Stat Increase                          | 13            | 5   | 5   | 4   | 3   | 3   | 1   | -   | -   |
+| 12    | +4                | Daring Escape                          | 14            | 6   | 5   | 4   | 3   | 3   | 2   | -   | -   |
+| 13    | +5                | Subclass Ability                       | 15            | 6   | 5   | 4   | 3   | 3   | 2   | 1   | -   |
+| 14    | +5                |                                        | 16            | 6   | 5   | 4   | 3   | 3   | 2   | 2   | -   |
+| 15    | +5                | Stat Increase                          | 17            | 6   | 5   | 4   | 3   | 3   | 2   | 2   | 1   |
+| 16    | +5                |                                        | 18            | 6   | 5   | 4   | 3   | 3   | 3   | 2   | 1   |
 
 ## Level 1: Duel Me!
 

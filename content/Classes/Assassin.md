@@ -14,24 +14,24 @@ tags:
 
 ###### Assassin Core Features
 
-| Level | Proficiency Bonus | Learnt Abilities | Class Features          |
-| ----- | ----------------- | ---------------- | ----------------------- |
-| 1     | +2                | 2                | Assassinate             |
-| 2     | +2                | 3                | Out of Sight, Swiftness |
-| 3     | +2                | 4                | Stat Increase, Subclass |
-| 4     | +2                | 5                | Cloak and Dagger        |
-| 5     | +3                | 6                | Preemptive Strike       |
-| 6     | +3                | 6                | Subclass Ability        |
-| 7     | +3                | 7                | Stat Increase           |
-| 8     | +3                | 7                |                         |
-| 9     | +4                | 8                | Extra Action            |
-| 10    | +4                | 8                | Subclass Ability        |
-| 11    | +4                | 9                | Stat Increase           |
-| 12    | +4                | 9                |                         |
-| 13    | +5                | 10               |                         |
-| 14    | +5                | 10               | Subclass Ability        |
-| 15    | +5                | 11               | Stat Increase           |
-| 16    | +5                | 11               |                         |
+| Level | Proficiency Bonus | Class Features          | Talents Known | L1  | L2  | L3  | L4  | L5  | L6  | L7  | L8  |
+| ----- | ----------------- | ----------------------- | ------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1     | +2                | Assassinate             | 3             | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 2     | +2                | Out of Sight, Swiftness | 4             | 4   | -   | -   | -   | -   | -   | -   | -   |
+| 3     | +2                | Stat Increase, Subclass | 5             | 4   | 2   | -   | -   | -   | -   | -   | -   |
+| 4     | +2                | Cloak and Dagger        | 6             | 4   | 3   | -   | -   | -   | -   | -   | -   |
+| 5     | +3                | Preemptive Strike       | 7             | 4   | 3   | 2   | -   | -   | -   | -   | -   |
+| 6     | +3                | Subclass Ability        | 8             | 4   | 4   | 3   | -   | -   | -   | -   | -   |
+| 7     | +3                | Stat Increase           | 9             | 5   | 4   | 3   | 1   | -   | -   | -   | -   |
+| 8     | +3                |                         | 10            | 5   | 4   | 4   | 2   | -   | -   | -   | -   |
+| 9     | +4                | Extra Action            | 11            | 5   | 4   | 4   | 3   | 1   | -   | -   | -   |
+| 10    | +4                | Subclass Ability        | 12            | 5   | 5   | 4   | 3   | 2   | -   | -   | -   |
+| 11    | +4                | Stat Increase           | 13            | 5   | 5   | 4   | 3   | 3   | 1   | -   | -   |
+| 12    | +4                |                         | 14            | 6   | 5   | 4   | 3   | 3   | 2   | -   | -   |
+| 13    | +5                |                         | 15            | 6   | 5   | 4   | 3   | 3   | 2   | 1   | -   |
+| 14    | +5                | Subclass Ability        | 16            | 6   | 5   | 4   | 3   | 3   | 2   | 2   | -   |
+| 15    | +5                | Stat Increase           | 17            | 6   | 5   | 4   | 3   | 3   | 2   | 2   | 1   |
+| 16    | +5                |                         | 18            | 6   | 5   | 4   | 3   | 3   | 3   | 2   | 1   |
 
 ## Level 1: Assassinate
 
