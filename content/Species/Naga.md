@@ -10,20 +10,20 @@ Naga are a race of snake-people, brilliantly endowed with an innate knack for te
 
 As a Naga, you have the following Abilities:
 
-### Trivia Head
+### Naga Basics
 
-You have proficiency in Investigation.
+You have a very unique mind and body. You experience the following benefits:
+
+**Trivia Head.** You have proficiency in Investigation. 
+
+**Slithering.** You can use your tail to cast talents that would otherwise require the use of legs.
 
 ### Innate Telekinesis
 
-You can produce up to two invisible arcane motes at points within 5 feet of yourself. These motes move with you, can be moved at will to any point within 5 feet, and can be used to lift, carry, equip and utilize items, and use Abilities that would otherwise require the use of hands. Your Carrying Capacity using these motes uses your Intelligence bonus instead of Physique. When casting a weapon ability using these motes, you use your Intelligence bonus instead of Physique.
+You can produce up to two invisible arcane motes at points within 5 feet of yourself. These motes move with you, can be moved at will to any point within 5 feet, and can be used to lift, carry, equip and utilize items, and cast talents that would otherwise require the use of arms. 
+
+Your Carrying Capacity using these motes uses your Intelligence bonus instead of Physique. When casting a basic weapon attack using these motes, you use your Intelligence bonus instead of Physique.
 
 ### Ecdysis
-
-| Level | Cast Actions | Stats      | Range |
-| ----- | ------------ | ---------- | ----- |
-| 1     | 1            | -          | Self  |
-| **Uses**  | **Sustain**      | **Components** | **Area**  |
-| 1/LR  | -            | Innate     | -     |
 
 You can shed your skin as an Action. If you are [[Burning]], [[Grappled]] or [[Restrained]], you lose those conditions. Once you use this Ability, you cannot use it again until you finish a Long Rest.

@@ -35,7 +35,9 @@ tags:
 
 ## Level 1: Heart of the Dice
 
-As an Action you can roll five D6. The results of these dice are your Hand. As an Action you can reroll your Hand once per turn, rerolling a number of dice up to your Finesse bonus and keeping the new values.
+As an Action you can roll a Hand. A Hand is a collection of five d6 dice. Your Hand remains until it is expended, you finish a Long Rest, or you use this feature again to create a new hand. You can create a Hand twice, and regain all expended uses when you finish a Long Rest.
+
+At the start of your turn while you have a Hand, you can reroll a number of its dice up to your Soul bonus (no action needed). You must keep the new results. You can do this up to twice per Hand.
 
 As an Action immediately after hitting a creature with an attack roll, you can invoke your current Hand. The target of that attack suffers one of the following effects, depending on the contents of your Hand, and your Hand is expended.
 
@@ -43,6 +45,7 @@ Heart of the Dice Effects
 
 | Hand            | Effect |
 | --------------- | ------ |
+| No Pair         | -      |
 | One Pair        | 2A     |
 | Two Pairs       | 3A     |
 | Three of a Kind | 4A     |
@@ -62,7 +65,9 @@ You gain this ability again at Gambler levels 7, 11 and 15.
 
 You gain a Gambler subclass of your choice. A subclass is a specialization that grants you features at certain Gambler levels. For the rest of your career, you gain each of your subclass’s features that are of your Gambler level or lower.
 
-## Level 4:
+## Level 4: Double or Nothing
+
+When you score a Critical Hit, you can choose to push your luck. Roll 1d6. On a 4 or higher, the number of extra damage dice granted by the Critical Hit is doubled. On a 3 or lower, the hit is no longer considered a Critical Hit.
 
 ## Level 5:
 

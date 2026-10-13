@@ -20,7 +20,7 @@ tags:
 | 2     | +2                | Out of Sight, Swiftness | 4             | 4   | -   | -   | -   | -   | -   | -   | -   |
 | 3     | +2                | Stat Increase, Subclass | 5             | 4   | 2   | -   | -   | -   | -   | -   | -   |
 | 4     | +2                | Cloak and Dagger        | 6             | 4   | 3   | -   | -   | -   | -   | -   | -   |
-| 5     | +3                | Preemptive Strike       | 7             | 4   | 3   | 2   | -   | -   | -   | -   | -   |
+| 5     | +3                |                         | 7             | 4   | 3   | 2   | -   | -   | -   | -   | -   |
 | 6     | +3                | Subclass Ability        | 8             | 4   | 4   | 3   | -   | -   | -   | -   | -   |
 | 7     | +3                | Stat Increase           | 9             | 5   | 4   | 3   | 1   | -   | -   | -   | -   |
 | 8     | +3                |                         | 10            | 5   | 4   | 4   | 2   | -   | -   | -   | -   |
@@ -71,9 +71,9 @@ You gain an Assassin subclass of your choice. A subclass is a specialization tha
 
 A hidden blade is a dangerous one. While you are within reach of only one Enemy, you have Advantage on the first melee attack you make on your turn.
 
-## Level 5: Pre-emptive Strike
+## Level 5: 
 
-You know the value of an early kill. Immediately after you roll Initiative, you can move up to your Speed and make one Single Action Attack.
+
 
 ## Level 6:
 

@@ -20,7 +20,7 @@ tags:
 | 2     | +2                | Natural Armour, Swiftness      | 5             | 4             | 4   | -   | -   | -   | -   | -   | -   | -   |
 | 3     | +2                | Stat Increase, Subclass        | 6             | 5             | 4   | 2   | -   | -   | -   | -   | -   | -   |
 | 4     | +2                | Self Preservation              | 7             | 6             | 4   | 3   | -   | -   | -   | -   | -   | -   |
-| 5     | +3                | Preemptive Strike              | 8             | 7             | 4   | 3   | 2   | -   | -   | -   | -   | -   |
+| 5     | +3                |                                | 8             | 7             | 4   | 3   | 2   | -   | -   | -   | -   | -   |
 | 6     | +3                | Subclass Ability               | 8             | 8             | 4   | 4   | 3   | -   | -   | -   | -   | -   |
 | 7     | +3                | Stat Increase, Bloodsense      | 9             | 9             | 5   | 4   | 3   | 1   | -   | -   | -   | -   |
 | 8     | +3                | Elemental Armour               | 9             | 10            | 5   | 4   | 4   | 2   | -   | -   | -   | -   |
@@ -35,7 +35,9 @@ tags:
 
 ## Level 1: Primal Energy
 
-You have 4 Primal Energy points, which you can expend to empower certain Shifter abilities. You regain a number of Primal Energy points equal to your Instinct bonus when you finish a Short Rest, and regain all expended Primal Energy points when you finish a Long Rest. The maximum number of Primal Energy points you have increases when you reach certain Shifter levels, as shown in the Primal Energy column of the Shifter Core Features table.
+You have 4 Primal Energy points, which you can expend to empower certain Shifter abilities. You regain all expended Primal Energy points when you finish a Long Rest. The maximum number of Primal Energy points you have increases when you reach certain Shifter levels, as shown in the Primal Energy column of the Shifter Core Features table.
+
+You can expend a Stamina point to regain up to a number of expended Primal Energy points equal to the level of the Stamina point expended (no action required).
 
 ## Level 1: Bestial Weapons
 
@@ -79,9 +81,8 @@ Kaiju/elemental, Lycanthrope, 
 
 Your body moves to avoid danger before you consciously recognise the threat. You can use your Instinct bonus in place of your Agility bonus when forced to make an Agility saving throw.
 
-## Level 5: Pre-emptive Strike
+## Level 5: 
 
-You pounce as soon as prey reveals itself. Immediately after you roll Initiative, you can move up to your Speed and make a 1 Action Attack.
 
 ## Level 6:
 

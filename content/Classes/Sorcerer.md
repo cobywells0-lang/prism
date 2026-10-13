@@ -47,6 +47,8 @@ You gain this ability again at Sorcerer levels 7, 11 and 15.
 
 You gain a Sorcerer subclass of your choice. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass’s features that are of your Sorcerer level or lower.
 
+Extradimensional Tavern Keeper
+
 ## Level 4:
 
 ## Level 6:

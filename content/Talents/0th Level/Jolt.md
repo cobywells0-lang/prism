@@ -1,10 +1,10 @@
 **Prerequisites:** Class: [[Arcanist]], [[Artisan]], [[Commander]], [[Gambler]], [[Magus]], [[Sorcerer]], [[Swashbuckler]], [[Witch]]
 
-| Level | Cast Actions | Stats             | Range            |
-| ----- | ------------ | ----------------- | ---------------- |
-| 0     | 2            | Soul/Intelligence | 30 feet          |
-|       | **Sustain**  | **Components**    | **Area**         |
-|       | -            | Magic             | Sphere (10-foot) |
+| Level    | Cast Actions  | Stats             | Range            |
+| -------- | ------------- | ----------------- | ---------------- |
+| 0th      | 2 Actions     | Soul/Intelligence | 30 feet          |
+| **Type** | **Duration**  | **Somatics**      | **Area**         |
+| Magic    | Instantaneous | Arm               | Sphere (10-foot) |
 
 You amass crackling energy in your hand, before expelling it towards a target. Make a magic ranged attack against one creature within range. On a hit, it takes 2d6 Lightning damage.
 

@@ -35,7 +35,7 @@ tags:
 
 ## Level 1: Called Shots
 
-Your composure in combat is equal parts inspiring and uncanny. When you score a Critical Hit, you can choose where your strike lands. The target must make a Physique saving throw (DC Finesse/Instinct). On a failure, it suffers one of the following effect, depending on where you choose to strike.
+Your composure in combat is equal parts inspiring and uncanny. When you score a Critical Hit, you can choose where your strike lands. The target must make a Physique saving throw (DC Finesse/Instinct). On a failure, it suffers one of the following effects, depending on where you choose to strike.
 
 | Body Part | Effect                                                                          |
 | --------- | ------------------------------------------------------------------------------- |
@@ -45,17 +45,17 @@ Your composure in combat is equal parts inspiring and uncanny. When you score a 
 
 ## Level 2: Take Aim
 
-| Level | Cast Actions | Stats      | Range |
-| ----- | ------------ | ---------- | ----- |
-| -     | 1            | -          | Self  |
-|       | **Sustain**      | **Components** | **Area**  |
-|       | -            | Innate     | -     |
+| Level    | Cast Actions  | Stats          | Range    |
+| -------- | ------------- | -------------- | -------- |
+| -        | 1 Action      | -              | Self     |
+| **Type** | **Duration**  | **Somatics**   | **Area** |
+| Innate   | Instantaneous | Weapon, Vision | -        |
 
-As an Action you prepare to strike. The next attack you make before the end of your turn is Precise.
+As an Action you prepare to strike. The next weapon attack you make before the end of your turn is Precise.
 
-A Precise attack is made with Advantage. On a hit, it deals an extra 1d10 damage.
+A Precise attack is made with Advantage. On a hit, it deals an extra 1d10 Weapon damage.
 
-You can cast this ability a number of times equal to your Instinct bonus, and regain all expended uses when you finish a Short or Long Rest.
+You can cast this talent a number of times equal to your Instinct bonus, and regain all expended uses when you finish a Short or Long Rest.
 
 ## Level 3: Stat Increase
 
