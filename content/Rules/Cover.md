@@ -1,0 +1,5 @@
+Positioning yourself behind a solid obstacle can provide defence against attacks, called cover. There are two types of cover you can benefit from. The type of cover you benefit from depends upon your positioning, the environment, and the positioning of the enemy or Area effect targeting you. Thus, you can be benefitting from different types of cover against different attacks at the same time.
+
+**Partial Cover.** You are in Partial Cover when a large obstruction, such as a thick tree trunk, large rock, or building corner blocks line of sight between you and the origin of an Attack or Area effect. Attacks targeting you while in Partial Cover are made with Disadvantage. You have Advantage on saving throws made against Area effects while in Partial Cover.
+
+**Total Cover.** You are in Total Cover when a comprehensive, impermeable obstruction, such as a wall or magical barrier blocks line of sight between you and the origin of an Attack or Area effect. You are immune to all Attacks and Area effects while in Full Cover.

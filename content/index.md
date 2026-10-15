@@ -4,7 +4,7 @@ Prism is an independently developed tabletop roleplaying game designed with a fo
 
 Prism is currently in pre-Beta, and all content is subject to change.
 
-To get started, try visiting [[Checks]], [[Abilities]] and [[Creating a Character]]!
+To get started, try visiting [[Checks]], [[Talents]] and [[Creating a Character]]!
 
 If you have any questions or feedback, please reach out to @blu5 on Discord.
 
@@ -90,8 +90,8 @@ If you have any questions or feedback, please reach out to @blu5 on Discord.
 [[Sickened]]
 [[Unconscious]]
 ### Rules
-[[Abilities]]
-[[Ability Bonus]]
+[[Talents]]
+[[Talent Bonus]]
 [[Action]]
 [[Activities]]
 [[Advantage and Disadvantage]]

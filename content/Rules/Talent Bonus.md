@@ -1,0 +1,1 @@
+Most Talents have two Stats listed. The sum of your bonuses in those two Stats is your Talent Bonus for that Talent. The Talent Bonus is used in any attack rolls made via the ability, and in determining the DC of any saving throws the ability calls for. It may also be used in other calculations, as specified (such as the AC or HP of a summoned creature or construct).

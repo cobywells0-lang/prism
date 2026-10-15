@@ -20,7 +20,7 @@ Choose one Class, and gain everything from that class's Traits Table, as well as
 
 ### Learnt Abilities
 
-At Level 1, you are able to learn 2 Learnt Abilities. These are the abilities that distinguish your character from others of the same species and class. See more information on Learnt Abilities [[Abilities|here]].
+At Level 1, you are able to learn 2 Learnt Abilities. These are the abilities that distinguish your character from others of the same species and class. See more information on Learnt Abilities [[Talents|here]].
 
 ### Starting At Higher Levels
 
