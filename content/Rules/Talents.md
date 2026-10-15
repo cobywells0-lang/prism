@@ -4,11 +4,11 @@ Talents are self-contained descriptions of feats you are capable of performing r
 
 Every Talent has an associated table of information which is pertinent to the use of that Talent, called the Talent Table. A typical Talent Table looks like this:
 
-| Level | Cast Actions | Stats    | Range |
-| ----- | ------------ | -------- | ----- |
-|       |              |          |       |
-| **Type**  | **Duration**     | **Somatics** | **Area**  |
-|       |              |          |       |
+| Level    | Cast Actions | Stats        | Range    |
+| -------- | ------------ | ------------ | -------- |
+| -        | -            | -            | -        |
+| **Type** | **Duration** | **Somatics** | **Area** |
+| -        | -            | -            | -        |
 
 #### Level
 The Level of the Talent determines the minimum level of Stamina point that must be expended in order to cast it. A 0th level Talent requires no Stamina point be expended in order to cast.
