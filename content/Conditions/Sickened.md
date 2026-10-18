@@ -1,1 +1,1 @@
-While Sickened, you feel physically unwell. You take one Vitalic damage per stack of Sickened every time you use an Action or Reaction.
+While Sickened, you feel physically unwell. You have Disadvantage on all attack rolls and skill checks.

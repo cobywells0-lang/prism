@@ -9,15 +9,15 @@ Character Level is the sum of levels you have in all classes. Character Level ca
 ### Proficiency Bonus
 Your Proficiency bonus scales with your Character Level. To determine your Proficiency bonus, reference the Proficiency Bonus column of any class's core features table at your Character Level.
 
-### Duplicate Abilities
-If you have two abilities with the same name, you benefit from only one of them at a time. You choose which you wish to benefit from.
+### Duplicate Features
+If you have two features with the same name, you benefit from only one of them at a time. You choose which you wish to benefit from.
 
 ### Extra Action
 You gain the Extra Action ability at Character Level 9.
 
 ### Class Prerequisites
-The class prerequisites of Learnt Abilities work differently. Your effective level for learning such an ability is the sum of your levels in classes listed as prerequisites, rather than your Character Level. 
+The class prerequisites of Talents work differently while Multiclassing.
 
-For example, a Brawler 2/Swashbuckler 1 character is considered level 3 for the purposes of learning abilities that Brawler and Swashbuckler are both valid prerequisites for, and thus can take the Level 2 Ability [[Warpath]].
+In order to take a Talent with a class prerequisite, you must have a total number of levels in classes listed as prerequisites equal to twice the Talent level, minus 1.
 
-That same character is only considered level 2 for the purposes of learning abilities that a Brawler can take, but a Swashbuckler cannot.
+For example, in order to learn a 3rd-level Talent, you must have at least 5 levels in classes which are listed as prerequisites for that Talent.

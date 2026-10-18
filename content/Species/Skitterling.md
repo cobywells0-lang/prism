@@ -8,11 +8,11 @@ As a Skitterling, you have the following Abilities:
 
 ### Strong Stomach
 
-You have Advantage on Physique saving throws made to avoid or end the Sickened condition and disease.
+You have Advantage on Physique saving throws made to avoid or end the Sickened condition.
 
 ### Prehensile Tail
 
-Your tail is capable of holding, equipping, and manipulating items. Whenever you use your tail to make a skill check or saving throw that uses Finesse, you make the roll with Disadvantage. Additionally, when you use your tail to cast an ability that uses Finesse as one of its Stats, any attacks you make as part of that ability are made with Disadvantage.
+Your tail is capable of holding, equipping, and manipulating items. It counts as an arm for the purposes of casting Talents.
 
 ### Skitterling Cunning
 

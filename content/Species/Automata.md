@@ -20,11 +20,5 @@ You do not fall [[Unconscious]] when you fall to 0 Hit Points. You instead becom
 
 ### Self-Customisation
 
-| Level    | Cast Actions      | Stats          | Range    |
-| -------- | ----------------- | -------------- | -------- |
-| 1        | Activity/1 Action | -              | Self     |
-| **Uses** | **Sustain**       | **Components** | **Area** |
-| -        | -                 | Weapon/Tool*   | -        |
-\**Any Weapon or Tool you have Proficiency with.
 
 As an Activity you can integrate one Weapon or Tool you have Proficiency with into your body, or swap one integrated item for another. You can have no more than one item integrated at a time. As an Action you can retract the item into your body, where it is Hidden, or deploy it such that it can be used freely. You cannot drop or be disarmed of your integrated item while you live.

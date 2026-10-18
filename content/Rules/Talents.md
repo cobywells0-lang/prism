@@ -34,19 +34,23 @@ The Type of the Talent determines how it interacts with other Talents and featur
 **Tool.** A Tool Talent requires the use of a specific tool kit. In order to cast a Tool Talent, you must currently be holding a tool kit listed in the Talent prerequisites, with which you are proficient.
 
 #### Duration
-The Duration of the Talent describes the maximum length of time the effects of the Talent last before ending. If a Sustain Action cost is listed alongside the duration, that number of consecutive Actions must be spent each turn in order to maintain the effects of the Talent, which is called Sustaining the Talent. If you do not Sustain a Talent which requires to be Sustained, the Talent ends at the end of that turn.
+The Duration of the Talent describes the maximum length of time the effects of the Talent last before ending. 
+
+**Sustain.** If a Sustain Action cost is listed alongside the duration, that number of consecutive Actions must be spent on each subsequent turn after casting in order to maintain the effects of the Talent, which is called Sustaining the Talent. 
+
+If, on your turn, you do not Sustain a Talent that requires to be Sustained, that Talent ends at the end of your turn.
 
 #### Somatics
 The Somatics of the Talent describe what parts of your body you must be able to utilise in order to cast the Talent. What that means exactly is explained below.
 
-| Somatic | Requirement                                                                                                                                             |
-| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Arm     | At least one arm must be unrestrained and unburdened. In the case of Weapon and Tool Talents, the associated weapon or tool must be held in that arm    |
-| Arms    | At least two arms must be unrestrained and unburdened. In the case of Weapon and Tool Talents, the associated weapon or tool must be held in those arms |
-| Leg     | At least one leg must be unrestrained.                                                                                                                  |
-| Legs    | All legs must be unrestrained.                                                                                                                          |
-| Head    | At least one head must be unrestrained.                                                                                                                 |
-| Voice   | You must be able to speak coherently, and must not be silenced.                                                                                         |
+| Somatic | Requirement                                                                                                                                                                                          |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Arm     | At least one arm must be unrestrained and not be currently used to hold or interact with anything. In the case of Weapon and Tool Talents, the associated weapon or tool must be held in that arm    |
+| Arms    | At least two arms must be unrestrained and not be currently used to hold or interact with anything. In the case of Weapon and Tool Talents, the associated weapon or tool must be held in those arms |
+| Leg     | At least one leg must be unrestrained.                                                                                                                                                               |
+| Legs    | All legs must be unrestrained.                                                                                                                                                                       |
+| Head    | At least one head must be unrestrained.                                                                                                                                                              |
+| Voice   | You must be able to speak coherently, and must not be silenced.                                                                                                                                      |
 
 #### Area
 The Area of the Talent describes the shape and properties of its Area effect, if it has one. There are two properties an Area effect can have:
@@ -63,9 +67,9 @@ Many Talents have prerequisites that you must meet before you can learn them.
 
 **Class.** Many Talents have one or more class prerequisites listed. You must be of one of the listed classes in order to learn that Talent. If a Talent has no classes listed, any class may learn it. For characters with levels in multiple classes, see [[Multiclassing]].
 
-**Species.** Some Talents have one or more species listed. If you are of that species, you may learn that ability.
+**Species.** Some Talents have one or more species listed. If you are of that species, you may learn that talent.
 
-**Proficiency.** Many Talents have one or more weapons, tools or skills listed. You must have Proficiency with at least one of those in order to learn that ability. In order to cast abilities with a weapon or tool prerequisite, you must be holding a weapon or tool that meets that prerequisite, and that you are proficient with.
+**Proficiency.** Many Talents have one or more weapons, tools or skills listed. You must have Proficiency with at least one of those in order to learn that Talent. In order to cast Talents with a weapon or tool prerequisite, you must be holding a weapon or tool that meets that prerequisite, and that you are proficient with.
 
 If a Talent has both a Class and Species prerequisite, you need only fulfil one of the two. If a Talent has a Proficiency prerequisite, it must be fulfilled in addition to any Class or Species prerequisite.
 

@@ -6,20 +6,14 @@ Ogres are enormous, mammoth-like humanoids. A long, prehensile trunk protrudes f
 
 As an Ogre, you have the following Abilities:
 
-### Prehensile Trunk
+### Herd Guardian
 
-Your trunk is capable of holding, equipping, and manipulating items. Whenever you use your trunk to make a skill check or saving throw that uses Finesse, you make the roll with Disadvantage. Additionally, when you use your trunk to cast an ability that uses Finesse as one of its Stats, any attacks you make as part of that ability are made with Disadvantage.
+You understand the importance of protecting those close to you. As a Reaction when a creature within 5 feet of you is hit with an attack, you can cause that attack to hit you instead.
 
 ### Cold Adaptation
 
-You have Damage Reduction against Frost equal to your Proficiency Bonus.
+You have layers of thick, protective fur. You have Frost Damage Reduction equal to your Proficiency Bonus.
 
 ### Tusk Toss
 
-| Level    | Cast Actions | Stats             | Range    |
-| -------- | ------------ | ----------------- | -------- |
-| 1        | 1            | Physique/Instinct | 5 feet   |
-| **Uses** | **Sustain**  | **Components**    | **Area** |
-| 1/SR     | -            | Innate            | -        |
-
-You attempt to knock a creature away with your tusks. One creature within range must make an Agility saving throw. On a failed save it takes 1d8 Bludgeoning damage and is pushed 15 feet away from you. Once you cast this ability you cannot do so again until you finish a Short or Long Rest.
+As an Action you can attempt to knock a creature away with your tusks. One creature within 5 feet must make an Agility saving throw. On a failed save it takes 1d8 Bludgeoning damage and is pushed 15 feet away from you. You can use this feature a number of times equal to your Proficiency bonus, and regain all expended uses when you finish a Long Rest.

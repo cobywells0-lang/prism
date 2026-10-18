@@ -1,1 +1,0 @@
-If an Ability does not require the use of a Weapon, Tool, or Magic, it is considered Innate. Innate Abilities tend to utilise the non-magical biology of a creature.

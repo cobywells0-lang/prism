@@ -1,4 +1,4 @@
-Many Abilities deal damage. When a creature takes damage, it loses that number of Hit Points. There are several types of damage, depending on the nature of the source.
+Many Talents and features deal damage. When a creature takes damage, it loses that number of Hit Points. There are several types of damage, depending on the nature of the source.
 
 | Damage Type | Description                       | Example Sources                               |
 | ----------- | --------------------------------- | --------------------------------------------- |
@@ -17,15 +17,15 @@ Many Abilities deal damage. When a creature takes damage, it loses that number o
 | Radiant     | Light and Radiation Burns         | Bright Light, Lasers, Radiation               |
 ### Multiple Damage Types
 
-If an Ability is capable of dealing several types of damage, they will all be listed like so: 
+If an attack or feature is capable of dealing several types of damage, they will all be listed like so: 
 
 Bludgeoning/Piercing/Slashing
 
-You can choose which damage type the Ability deals each time you cast it.
+You can choose which damage type to use each time you deal it.
 
 ### Weapon Damage
 
-An Ability may call for Weapon damage. In this case, the Ability deals damage of the same type as the Weapon used to cast it. If the Weapon can deal multiple types of damage, you choose which of those types the Ability uses.
+An Talent or feature may call for Weapon damage. In this case, it deals damage of the same type as the Weapon used. If the Weapon can deal multiple types of damage, you choose which of those types to use.
 
 ### Damage Reduction and Vulnerability
 

@@ -16,7 +16,7 @@ You have a very unique mind and body. You experience the following benefits:
 
 **Trivia Head.** You have proficiency in Investigation. 
 
-**Slithering.** You can use your tail to cast talents that would otherwise require the use of legs.
+**Slithering.** You can use your tail to cast talents that would otherwise require the use of legs. While Prone, your Crawl speed is equal to half your Speed, instead of 5 feet.
 
 ### Innate Telekinesis
 
@@ -26,4 +26,4 @@ Your Carrying Capacity using these motes uses your Intelligence bonus instead of
 
 ### Ecdysis
 
-You can shed your skin as an Action. If you are [[Burning]], [[Grappled]] or [[Restrained]], you lose those conditions. Once you use this Ability, you cannot use it again until you finish a Long Rest.
+You can shed your skin as an Action. If you are [[Burning]], [[Grappled]] or [[Restrained]], you lose those conditions. Once you use this feature, you cannot use it again until you finish a Long Rest.

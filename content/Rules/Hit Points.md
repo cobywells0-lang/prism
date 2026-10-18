@@ -4,4 +4,4 @@ When you take damage, you lose that many Hit Points. If you ever fall to 0 Hit P
 
 ## Temporary Hit Points
 
-Certain Abilities grant Temporary Hit Points, or THP. Temporary Hit Points do not stack, and are always lost when you finish a Long Rest. When you gain Temporary Hit Points while you already have some, you keep whichever number of Temporary Hit Points is greater. When you take damage while you have Temporary Hit Points, your Temporary Hit Points are reduced first. If you take more damage than the number of Temporary Hit Points you have, any excess damage is applied to your Hit Points as usual.
+Certain Talents and features grant Temporary Hit Points, or THP. Temporary Hit Points do not stack, and are always lost when you finish a Long Rest. When you gain Temporary Hit Points while you already have some, you keep whichever number of Temporary Hit Points is greater. When you take damage while you have Temporary Hit Points, your Temporary Hit Points are reduced first. If you take more damage than the number of Temporary Hit Points you have, any excess damage is applied to your Hit Points as usual.
