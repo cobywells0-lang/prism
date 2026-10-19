@@ -20,7 +20,7 @@ Choose one Class, and gain everything from that class's Traits Table, as well as
 
 ### Talents
 
-At Level 1, you are able to learn 2 Talents. These are the abilities that distinguish your character from others of the same species and class. See more information on Talents [[Talents|here]].
+At Level 1, you are able to learn 3 Talents and 2 Techniques. These are the abilities that distinguish your character from others of the same species and class. See more information on Talents [[Talents|here]].
 
 ### Starting At Higher Levels
 

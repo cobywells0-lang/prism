@@ -6,4 +6,4 @@ While Prone, you are knocked off balance. If you are not [[Airborne]], you are l
 
 **Crawl.** Your Speed cannot be greater than 5 feet.
 
-While Prone, you can right yourself with 2 Actions. You lose the Prone condition.
+While Prone, you can right yourself as an Action. You lose the Prone condition.

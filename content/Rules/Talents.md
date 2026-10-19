@@ -11,7 +11,7 @@ Every Talent has an associated table of information which is pertinent to the us
 | -        | -            | -            | -        |
 
 #### Level
-The Level of the Talent determines the minimum level of Stamina point that must be expended in order to cast it. A 0th level Talent requires no Stamina point be expended in order to cast.
+The Level of the Talent determines the minimum level of Stamina point that must be expended in order to cast it. A Technique is a 0th level Talent, and requires no Stamina point be expended in order to cast. Techniques, therefore, can be cast any number of times between rests.
 
 #### Cast Actions
 The Cast Actions of the Talent describes how many consecutive Actions must be spent in order to Cast the Talent. If it is cast as a Reaction, the body text of the Talent describes what may trigger the Reaction.

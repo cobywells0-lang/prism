@@ -36,6 +36,7 @@ If you have any questions or feedback, please reach out to @blu5 on Discord.
 [[Spine Bristle]]
 [[Stalagmite]]
 [[Starfire]]
+[[Thrust]]
 [[Upswing]]
 #### 1st Level
 [[Cleave]]

@@ -33,25 +33,13 @@ tags:
 | 15    | +5                | Stat Increase           | 5                | 17            | 6   | 5   | 4   | 3   | 3   | 2   | 2   | 1   |
 | 16    | +5                |                         | 5                | 18            | 6   | 5   | 4   | 3   | 3   | 3   | 2   | 1   |
 
-## Level 1: Assassinate
+## Level 1: Out of Sight
 
-| Level    | Cast Actions | Stats           | Range    |
-| -------- | ------------ | --------------- | -------- |
-| 1        | 1            | Finesse/Agility | Self     |
-| **Uses** | **Sustain**  | **Components**  | **Area** |
-| -        | -            | Innate          | -        |
+As an Action you can employ misdirection, the environment, or a classical smoke bomb at the feet to vanish. You are Concealed from all creatures until the start of your next turn. You can use this feature four times, and regain all expended uses when you finish a Long Rest.
 
-As an Action, immediately after you hit a creature with a weapon attack, you can attempt to assassinate the target. The target takes extra damage equal to your Assassinate value. If that damage reduces it to a number of Hit Points equal to or lower than your Assassinate value, it instead falls to 0 Hit Points. Your Assassinate value is twice your Assassin level plus 5.
+## Level 2: Assassinate
 
-## Level 2: Out of Sight
-
-| Level    | Cast Actions | Stats          | Range    |
-| -------- | ------------ | -------------- | -------- |
-| 1        | 1            | -              | Self     |
-| **Uses** | **Sustain**  | **Components** | **Area** |
-| 4/LR     | -            | Innate         | -        |
-
-As an Action you employ misdirection, the environment, or a classical smoke bomb at the feet to vanish. You are Concealed from all creatures until the start of your next turn. You can use this feature four times, regain one expended use when you finish a Short Rest, and regain all expended uses when you finish a Long Rest.
+As an Action, immediately after you hit a creature with a weapon attack you made with Advantage, you can attempt to assassinate the target. The target takes extra damage equal to your Assassinate value. If that damage reduces it to a number of Hit Points equal to or lower than your Assassinate value, it instead falls to 0 Hit Points. Your Assassinate value is equal to your Assassin level plus 3.
 
 ## Level 2: Swiftness
 

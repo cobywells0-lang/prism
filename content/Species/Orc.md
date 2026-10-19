@@ -12,7 +12,7 @@ As an Orc, you have the following Abilities:
 
 ### Natural Camouflage
 
-While in a plant-dominated environment, such as a field, garden or forest, you can become Hidden without first being Concealed.
+When you end your turn without moving or taking any Actions, in a plant-dominated environment, such as a field, garden or forest, you become Concealed. You remain Concealed until you move or take an Action other than Hiding.
 
 ### Fungal Decay
 

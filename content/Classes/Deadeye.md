@@ -35,7 +35,7 @@ tags:
 
 ## Level 1: Called Shots
 
-Your composure in combat is equal parts inspiring and uncanny. When you score a Critical Hit, you can choose where your strike lands. The target must make a Physique saving throw (DC Finesse/Instinct). On a failure, it suffers one of the following effects, depending on where you choose to strike.
+Your composure in combat is equal parts inspiring and uncanny. When you score a Critical Hit, you can choose where your strike lands. The target suffers one of the following effects, depending on where you choose to strike.
 
 | Body Part | Effect                                                                          |
 | --------- | ------------------------------------------------------------------------------- |
