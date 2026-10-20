@@ -1,3 +1,5 @@
+[[Conditions|Binary.]]
+
 While Restrained, one or more limbs have been bound or otherwise disabled. While a limb is Restrained, it cannot be used to perform abilities. You can become Restrained multiple times, each Restrained condition affecting a separate limb.
 
 | Limb | Potential Uses                                      |

@@ -1,3 +1,5 @@
+[[Conditions|Binary.]]
+
 You can become Hidden from one or more creatures by hiding as an Action while Concealed from those creatures. While Hidden you experience the following effects:
 
 **Untargetable.** You cannot be the target of abilities unless they are Area abilities.

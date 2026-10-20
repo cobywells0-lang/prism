@@ -1,3 +1,5 @@
+[[Conditions|Binary.]]
+
 While Incapacitated, you are unable to act freely. You suffer the following effects:
 
 **Immobile.** Your Speed is 0, and cannot be increased. 

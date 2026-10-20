@@ -1,3 +1,5 @@
+[[Conditions|Binary.]]
+
 While Grappled, you are being held by another creature. You suffer the following effects:
 
 **Held**. You cannot move and you have Disadvantage on weapon attacks made against the grappling creature. 
