@@ -1,12 +1,12 @@
-**Prerequisites:** Class: [[Arcanist]], [[Assassin]], [[Brawler]], [[Deadeye]], [[Gambler]], [[Hunter]], [[Magus]], [[Swashbuckler]], [[Warrior]]
+**Classes:** [[Arcanist]], [[Assassin]], [[Brawler]], [[Deadeye]], [[Gambler]], [[Hunter]], [[Magus]], [[Swashbuckler]], [[Warrior]]
 
-| Level | Cast Actions  | Stats           | Range    |
-| ----- | ------------- | --------------- | -------- |
-| 3     | 3             | Finesse/Agility | 60 feet  |
-|       | **Sustain**   | **Components**  | **Area** |
-|       | 1 Minute (1A) | Magic, Weapon*  | -        |
+| Level        | Casting Time  | Stats           | Range    |
+| ------------ | ------------- | --------------- | -------- |
+| 3rd          | 3 Actions     | Finesse/Agility | 60 feet  |
+| **Type**     | **Duration**  | **Somatics**    | **Area** |
+| Magic Weapon | 1 Minute (1A) | Arm, Voice      | -        |
 
-*Any Slashing Melee Weapon
+**Weapons:** [[Arming Sword]], [[Dagger]], [[Halberd]], [[Kama]]
 
 With 3 Actions, you teleport behind one creature within range, and slash at its spirit. The target must make a Soul saving throw. On a failure, it is Cursed. On a success, you instead take 1d6 Psychic damage as your one-liner falls flat.
 
