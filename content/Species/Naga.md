@@ -1,22 +1,14 @@
----
-tags:
-  - Species
----
 Naga are a race of snake-people, brilliantly endowed with an innate knack for telekinesis. They tend to be solitary and scholarly, but in the presence of others they may enjoy testing their companions’ intelligence (and patience) with riddles, trivia questions, or other brain teasers. They lack arms and legs, instead relying on their long tail for mobility.
 
 **Creature Type:** Humanoid Beast
 **Size:** Small or Medium
 **Speed:** 20 feet (Walk)
 
-As a Naga, you have the following Abilities:
+As a Naga, you have the following species features:
 
-### Naga Basics
+### Slithering
 
-You have a very unique mind and body. You experience the following benefits:
-
-**Trivia Head.** You have proficiency in Investigation. 
-
-**Slithering.** You can use your tail to cast talents that would otherwise require the use of legs. While Prone, your Crawl speed is equal to half your Speed, instead of 5 feet.
+You can use your tail to cast talents that would otherwise require the use of legs. While Prone, you do not suffer the Crawl Speed penalty.
 
 ### Innate Telekinesis
 

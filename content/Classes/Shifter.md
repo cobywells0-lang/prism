@@ -1,7 +1,3 @@
----
-tags:
-  - Class
----
 ###### Shifter Traits
 
 | Core Stats                      | Physique and Instinct                                                                               |

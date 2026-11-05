@@ -1,10 +1,12 @@
-**Prerequisites:** Tool: [[Healing Kit]]
+**Classes:** [[Arcanist]], [[Artisan]], [[Commander]], [[Hunter]], [[Witch]]
 
 | Level    | Cast Actions  | Stats                 | Range    |
 | -------- | ------------- | --------------------- | -------- |
 | 1st      | 1 Action      | Instinct/Intelligence | 5 feet   |
 | **Type** | **Duration**  | **Somatics**          | **Area** |
 | Tool     | Instantaneous | Arm                   | -        |
+
+**Tools:** [[Alchemy Kit]], [[Healing Kit]]
 
 As an Action you produce a simple balm and apply it to a creature within 5 feet. The target regains a number of Hit Points equal to 2d6 plus your Talent bonus.
 

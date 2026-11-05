@@ -1,10 +1,10 @@
-**Prerequisites:** Class: [[Arcanist]], [[Assassin]], [[Brawler]], [[Commander]], [[Gambler]], [[Hunter]], [[Sorcerer]], [[Swashbuckler]]
+**Prerequisites:** Class: [[Arcanist]], [[Assassin]], [[Commander]], [[Gambler]], [[Hunter]], [[Sorcerer]], [[Swashbuckler]]
 
-| Level | Cast Actions  | Stats          | Range    |
-| ----- | ------------- | -------------- | -------- |
-| 2     | 1             | Agility/Soul   | Self     |
-|       | **Sustain**   | **Components** | **Area** |
-|       | 1 Minute (1A) | Magic          | -        |
+| Level | Cast Actions          | Stats        | Range    |
+| ----- | --------------------- | ------------ | -------- |
+| 2     | 1                     | Agility/Soul | Self     |
+| Type  | **Duration**          | **Somatics** | **Area** |
+| Magic | 1 Minute (Sustain 1A) | Legs         | -        |
 
 As an Action you click your heels and imbue your movements with energy. As part of the Actions taken to Cast and Sustain this ability, you can move up to your Speed. For the duration, you gain the following benefits:
 

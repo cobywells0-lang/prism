@@ -6,7 +6,7 @@ You can always move a distance lesser than your speed if you choose to (for exam
 
 The movement types are as follows:
 
-**Walk.** You stride, run, hop or slither along a flat horizontal surface, or up an easily manageable slope.
+**Walk.** You stride, run, hop or slither along a flat horizontal surface, or up an easily manageable slope. Additionally, you can vault a wall or mantle a ledge up to 5 feet tall by expending 5 feet of movement.
 
 **Swim.** You move through water or another thin liquid in any direction.
 

@@ -1,7 +1,3 @@
----
-tags:
-  - Class
----
 The mighty crimson dragon continues its rampage upon the battlefield, a cluster of noble soldiers standing defiant under its gaze. Hopeless defiance, but defiance nonetheless. Flame flickers in the beast’s throat, orange tendrils that swell in volume as they’re propelled towards those hopeless, defiant fools.
 
 But the flames impact not the fools, but a mighty shield. A disc of pure, translucent magic, held in place by just one soldier - arcane tendrils sustaining the projection of their spell against the beast’s blazing volley.

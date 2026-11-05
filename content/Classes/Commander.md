@@ -1,7 +1,3 @@
----
-tags:
-  - Class
----
 ###### Commander Traits
 
 | Core Stats                      | Intelligence and Soul                                                                             |

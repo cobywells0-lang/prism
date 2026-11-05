@@ -1,4 +1,4 @@
-Tiny Spirit, Level equal to the summoner's Level
+Tiny Spirit Summon, Level equal to the summoner's Level
 
 | Finesse | Physique | Agility | Soul | Instinct | Intelligence |
 | ------- | -------- | ------- | ---- | -------- | ------------ |

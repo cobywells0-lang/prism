@@ -53,7 +53,7 @@ The Somatics of the Talent describe what parts of your body you must be able to 
 | Voice   | You must be able to speak coherently, and must not be silenced.                                                                                                                                      |
 
 #### Area
-The Area of the Talent describes the shape and properties of its Area effect, if it has one. There are two properties an Area effect can have:
+The Area of the Talent describes the shape, size and properties of its Area effect, if it has one. There are two properties an Area effect can have:
 
 **True.** A True Area effect ignores the effects of Partial and Total Cover.
 

@@ -1,7 +1,3 @@
----
-tags:
-  - Class
----
 ###### Brawler Traits
 
 | Core Stats                      | Agility and Physique                                                                        |

@@ -1,7 +1,3 @@
----
-tags:
-  - Class
----
 ###### Witch Traits
 
 | Core Stats                      | Instinct and Intelligence                                                                         |

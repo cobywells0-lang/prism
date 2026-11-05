@@ -4,7 +4,7 @@ Alphei are an aquatic race that resemble humanoid crustaceans. Their body is cov
 **Size:** Small or Medium
 **Speed:** 20 feet (Walk and Swim)
 
-As an Alphei, you have the following Abilities:
+As an Alphei, you have the following species features:
 
 ### Aquatic Form
 

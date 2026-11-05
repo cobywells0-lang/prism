@@ -1,7 +1,3 @@
----
-tags:
-  - Class
----
 
 ###### Zealot Traits
 

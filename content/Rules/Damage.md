@@ -34,3 +34,5 @@ Creatures may have Reduction and Vulnerability to certain damage types. Certain 
 Damage Reduction reduces the amount of damage you take from instances of damage of that type by a specified amount. For example, if you have Bludgeoning Reduction 4 you would take only 1 Bludgeoning damage from an attack that would otherwise have dealt 5 Bludgeoning damage.
 
 Damage Vulnerability doubles the amount of damage you take of that type.
+
+Neither Damage Reduction nor Damage Vulnerability stacks. If Damage Reduction against the same damage type is obtained from two different sources, only the greater reduction is applied.

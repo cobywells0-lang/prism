@@ -1,14 +1,10 @@
----
-tags:
-  - Species
----
 Goblins are a race of small, tricksy fey. Most live in large communes underground, in forests, or occasionally integrated into a larger city. Their lack of understanding about concepts such as “personal space” or “property” can make them a difficult band to work with - but if you get past that they will welcome all into their big, messy extended family.
 
 **Creature Type:** Humanoid Fey
 **Size:** Small
 **Speed:** 20 feet (Walk)
 
-As a Goblin, you have the following Abilities:
+As a Goblin, you have the following species features:
 
 ### Limited Telepathy
 

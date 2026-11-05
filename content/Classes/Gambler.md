@@ -1,7 +1,3 @@
----
-tags:
-  - Class
----
 ###### Gambler Traits
 
 | Core Stats                      | Finesse and Soul                                                                                   |

@@ -1,7 +1,3 @@
----
-tags:
-  - Class
----
 ###### Warrior Traits
 
 | Core Stats                      | Finesse and Physique                                                                       |

@@ -1,7 +1,3 @@
----
-tags:
-  - Class
----
 ###### Swashbuckler Traits
 
 | Core Stats                      | Agility and Soul                                                                                 |

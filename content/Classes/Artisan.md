@@ -1,7 +1,3 @@
----
-tags:
-  - Class
----
 ###### Artisan Traits
 
 | Core Stats                      | Physique and Intelligence                                                                          |

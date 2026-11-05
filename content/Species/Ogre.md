@@ -4,7 +4,7 @@ Ogres are enormous, mammoth-like humanoids. A long, prehensile trunk protrudes f
 **Size:** Large
 **Speed:** 20 feet (Walk)
 
-As an Ogre, you have the following Abilities:
+As an Ogre, you have the following species features:
 
 ### Herd Guardian
 

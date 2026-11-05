@@ -1,7 +1,3 @@
----
-tags:
-  - Class
----
 ###### Magus Traits
 
 | Core Stats                      | Finesse and Intelligence                                                                          |

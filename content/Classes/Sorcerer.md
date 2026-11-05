@@ -1,7 +1,3 @@
----
-tags:
-  - Class
----
 ###### Sorcerer Traits
 
 | Core Stats                      | Instinct and Soul                                                                                   |

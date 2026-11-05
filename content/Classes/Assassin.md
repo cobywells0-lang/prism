@@ -1,7 +1,3 @@
----
-tags:
-  - Class
----
 ###### Assassin Traits
 
 | Core Stats                      | Agility and Finesse                                                                                          |

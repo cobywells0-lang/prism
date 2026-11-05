@@ -4,7 +4,7 @@ Skitterlings are a race of rodent-like humanoids, sporting sensitive whiskers an
 **Size:** Small or Medium  
 **Speed:** 20 feet (Walk)
 
-As a Skitterling, you have the following Abilities:
+As a Skitterling, you have the following species features:
 
 ### Strong Stomach
 
@@ -16,10 +16,4 @@ Your tail is capable of holding, equipping, and manipulating items. It counts as
 
 ### Skitterling Cunning
 
-| Level    | Cast Actions | Stats          | Range    |
-| -------- | ------------ | -------------- | -------- |
-| -        | R            | -              | Self     |
-| **Uses** | **Sustain**  | **Components** | **Area** |
-| PB/LR    | -            | Innate         | -        |
-
-As a Reaction when you fail an Intelligence skill check, you reroll the check and take the new result, potentially turning the failure into a success. You can cast this ability a number of times equal to your Proficiency bonus, and regain all expended uses when you finish a Long Rest.
+As a Reaction when you fail an Intelligence skill check, you can reroll the check and take the new result, potentially turning the failure into a success. You can use this feature a number of times equal to your Proficiency bonus, and regain all expended uses when you finish a Long Rest.

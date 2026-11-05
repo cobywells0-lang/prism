@@ -1,4 +1,5 @@
-**Prerequisites:** Class: [[Shifter]], Species: [[Naga]], [[Skitterling]], [[Vampire]]
+**Classes:** [[Shifter]]
+**Species:** [[Naga]], [[Skitterling]], [[Vampire]]
 
 | Level    | Cast Actions  | Stats             | Range    |
 | -------- | ------------- | ----------------- | -------- |

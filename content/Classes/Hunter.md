@@ -1,7 +1,3 @@
----
-tags:
-  - Class
----
 ###### Hunter Traits
 
 | Core Stats                      | Agility and Instinct                                                                             |
