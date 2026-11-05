@@ -1,10 +1,10 @@
-**Prerequisites:** Class: [[Shifter]]
+**Class:** [[Shifter]]
 
-| Level  | Cast Actions  | Stats            | Range                    |
-| ------ | ------------- | ---------------- | ------------------------ |
-| 1st    | 2 Actions     | Agility/Instinct | Self                     |
-| **Type**   | **Duration**      | **Somatics**         | **Area**                     |
-| Innate | Instantaneous | Legs, Arms       | Cone Emanation (15-foot) |
+| Level    | Casting Time  | Stats            | Range                    |
+| -------- | ------------- | ---------------- | ------------------------ |
+| 1st      | 2 Actions     | Agility/Instinct | Self                     |
+| **Type** | **Duration**  | **Somatics**     | **Area**                 |
+| Innate   | Instantaneous | Legs, Arms       | Cone Emanation (15-foot) |
 
 With 2 Actions you jump up to twice your Speed.
 

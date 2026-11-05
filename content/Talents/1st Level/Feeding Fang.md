@@ -1,7 +1,7 @@
 **Classes:** [[Shifter]]
 **Species:** [[Naga]], [[Skitterling]], [[Vampire]]
 
-| Level    | Cast Actions  | Stats             | Range    |
+| Level    | Casting Time  | Stats             | Range    |
 | -------- | ------------- | ----------------- | -------- |
 | 1st      | 2 Actions     | Physique/Instinct | 5 feet   |
 | **Type** | **Duration**  | **Somatics**      | **Area** |

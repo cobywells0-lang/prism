@@ -1,6 +1,6 @@
-**Prerequisites:** Class: [[Artisan]], [[Brawler]], [[Gambler]], [[Magus]], [[Shifter]], [[Sorcerer]]
+**Classes:** [[Artisan]], [[Brawler]], [[Gambler]], [[Magus]], [[Shifter]], [[Sorcerer]]
 
-| Level    | Cast Actions  | Stats         | Range    |
+| Level    | Casting Time  | Stats         | Range    |
 | -------- | ------------- | ------------- | -------- |
 | 2nd      | Reaction      | Physique/Soul | Self     |
 | **Type** | **Duration**  | **Somatics**  | **Area** |

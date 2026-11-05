@@ -1,6 +1,6 @@
-**Prerequisites:** Class: [[Arcanist]], [[Assassin]], [[Deadeye]], [[Gambler]], [[Magus]], [[Witch]]
+**Classes:** [[Arcanist]], [[Assassin]], [[Deadeye]], [[Gambler]], [[Magus]], [[Witch]]
 
-| Level    | Cast Actions  | Stats                | Range    |
+| Level    | Casting Time  | Stats                | Range    |
 | -------- | ------------- | -------------------- | -------- |
 | 0th      | 1 Action      | Finesse/Intelligence | 120 Feet |
 | **Type** | **Duration**  | **Somatics**         | **Area** |

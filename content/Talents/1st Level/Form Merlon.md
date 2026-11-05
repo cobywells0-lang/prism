@@ -1,6 +1,6 @@
 **Classes:** [[Arcanist]], [[Artisan]], [[Commander]], [[Magus]], [[Zealot]]
 
-| Level    | Cast Actions            | Stats             | Range    |
+| Level    | Casting Time            | Stats             | Range    |
 | -------- | ----------------------- | ----------------- | -------- |
 | 1st      | 1 Action                | Soul/Intelligence | 30 feet  |
 | **Type** | **Duration**            | **Somatics**      | **Area** |

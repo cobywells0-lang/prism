@@ -1,6 +1,6 @@
-**Prerequisites:** Class: [[Assassin]], [[Deadeye]], [[Hunter]], [[Magus]], [[Swashbuckler]]
+**Classes:** [[Assassin]], [[Deadeye]], [[Hunter]], [[Magus]], [[Swashbuckler]]
 
-| Level    | Cast Actions  | Stats        | Range    |
+| Level    | Casting Time  | Stats        | Range    |
 | -------- | ------------- | ------------ | -------- |
 | 1st      | 1 Action      | -            | Self     |
 | **Type** | **Duration**  | **Somatics** | **Area** |

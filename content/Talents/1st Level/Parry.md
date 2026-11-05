@@ -1,6 +1,6 @@
 **Classes:** [[Assassin]], [[Deadeye]], [[Hunter]], [[Swashbuckler]], [[Warrior]]
 
-| Level    | Cast Actions  | Stats            | Range    |
+| Level    | Casting Time  | Stats            | Range    |
 | -------- | ------------- | ---------------- | -------- |
 | 1st      | Reaction      | Finesse/Instinct | Self     |
 | **Type** | **Duration**  | **Somatics**     | **Area** |

@@ -1,6 +1,6 @@
-**Prerequisites:** Class: [[Arcanist]], [[Artisan]], [[Commander]], [[Deadeye]], [[Hunter]], [[Magus]], [[Shifter]], [[Sorcerer]], [[Swashbuckler]], [[Witch]]
+**Classes:** [[Commander]], [[Deadeye]], [[Hunter]], [[Swashbuckler]], [[Witch]]
 
-| Level    | Cast Actions  | Stats        | Range    |
+| Level    | Casting Time  | Stats        | Range    |
 | -------- | ------------- | ------------ | -------- |
 | 2nd      | 2 Actions     | -            | 10 feet  |
 | **Type** | **Duration**  | **Somatics** | **Area** |

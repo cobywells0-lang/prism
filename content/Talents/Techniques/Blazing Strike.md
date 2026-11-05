@@ -1,6 +1,6 @@
-**Prerequisites:** Class: [[Artisan]], [[Brawler]], [[Commander]], [[Gambler]], [[Magus]], [[Shifter]], [[Sorcerer]], [[Swashbuckler]], [[Warrior]], [[Zealot]]
+**Classes:** [[Artisan]], [[Brawler]], [[Commander]], [[Gambler]], [[Magus]], [[Shifter]], [[Sorcerer]], [[Swashbuckler]], [[Warrior]], [[Zealot]]
 
-| Level    | Cast Actions  | Stats         | Range    |
+| Level    | Casting Time  | Stats         | Range    |
 | -------- | ------------- | ------------- | -------- |
 | 0th      | 2 Actions     | Physique/Soul | 5 feet   |
 | **Type** | **Duration**  | **Somatics**  | **Area** |

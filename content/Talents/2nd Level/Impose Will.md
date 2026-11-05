@@ -1,6 +1,6 @@
-**Prerequisites:** Class: [[Artisan]], [[Commander]], [[Gambler]], [[Sorcerer]], [[Witch]], [[Zealot]]
+**Classes:** [[Artisan]], [[Commander]], [[Gambler]], [[Sorcerer]], [[Witch]], [[Zealot]]
 
-| Level    | Cast Actions  | Stats             | Range    |
+| Level    | Casting Time  | Stats             | Range    |
 | -------- | ------------- | ----------------- | -------- |
 | 2nd      | 2 Actions     | Soul/Intelligence | 30 feet  |
 | **Type** | **Duration**  | **Somatics**      | **Area** |

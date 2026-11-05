@@ -1,4 +1,4 @@
-**Prerequisites:** Class: [[Arcanist]], [[Assassin]], [[Hunter]], [[Swashbuckler]]
+**Classes:** [[Arcanist]], [[Assassin]], [[Hunter]], [[Swashbuckler]]
 
 | Level | Casting Time | Stats    | Range |
 | ----- | ------------ | -------- | ----- |

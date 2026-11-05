@@ -1,6 +1,6 @@
 **Classes:** [[Assassin]], [[Brawler]], [[Hunter]], [[Magus]], [[Swashbuckler]], [[Warrior]], [[Zealot]]
 
-| Level    | Cast Actions  | Stats            | Range    |
+| Level    | Casting Time  | Stats            | Range    |
 | -------- | ------------- | ---------------- | -------- |
 | 0th      | 2 Actions     | Physique/Agility | Weapon   |
 | **Type** | **Duration**  | **Somatics**     | **Area** |

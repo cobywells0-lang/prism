@@ -1,6 +1,6 @@
-**Prerequisites:** Class: [[Assassin]], [[Deadeye]], [[Hunter]], [[Magus]], [[Sorcerer]], [[Witch]]
+**Classes:** [[Assassin]], [[Deadeye]], [[Hunter]], [[Magus]], [[Sorcerer]], [[Witch]]
 
-| Level    | Cast Actions | Stats            | Range    |
+| Level    | Casting Time | Stats            | Range    |
 | -------- | ------------ | ---------------- | -------- |
 | 0th      | 1 Action     | Finesse/Instinct | 60 feet  |
 | **Type** | **Duration** | **Somatics**     | **Area** |

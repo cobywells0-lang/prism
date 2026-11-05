@@ -1,6 +1,6 @@
-**Prerequisites:** Class: [[Commander]], [[Gambler]], [[Sorcerer]], [[Swashbuckler]], [[Witch]], [[Zealot]]
+**Classes:** [[Commander]], [[Gambler]], [[Sorcerer]], [[Swashbuckler]], [[Witch]], [[Zealot]]
 
-| Level    | Cast Actions  | Stats         | Range           |
+| Level    | Casting Time  | Stats         | Range           |
 | -------- | ------------- | ------------- | --------------- |
 | 0th      | 2 Actions     | Soul/Instinct | 60 feet         |
 | **Type** | **Duration**  | **Somatics**  | **Area**        |

@@ -1,10 +1,10 @@
 **Classes:** [[Arcanist]], [[Assassin]], [[Brawler]], [[Deadeye]], [[Gambler]], [[Hunter]], [[Magus]], [[Swashbuckler]], [[Warrior]]
 
-| Level        | Casting Time  | Stats           | Range    |
-| ------------ | ------------- | --------------- | -------- |
-| 3rd          | 3 Actions     | Finesse/Agility | 60 feet  |
-| **Type**     | **Duration**  | **Somatics**    | **Area** |
-| Magic Weapon | 1 Minute (1A) | Arm, Voice      | -        |
+| Level        | Casting Time          | Stats           | Range    |
+| ------------ | --------------------- | --------------- | -------- |
+| 3rd          | 3 Actions             | Finesse/Agility | 60 feet  |
+| **Type**     | **Duration**          | **Somatics**    | **Area** |
+| Magic Weapon | 1 Minute (Sustain 1A) | Arm, Voice      | -        |
 
 **Weapons:** [[Arming Sword]], [[Dagger]], [[Halberd]], [[Kama]]
 

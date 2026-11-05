@@ -1,12 +1,12 @@
 ###### Assassin Traits
 
-| Core Stats                      | Agility and Finesse                                                                                          |
-| ------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Hit Point Dice                  | D8 per level                                                                                                 |
-| Skill Proficiencies             | **Choose 2:** Sleight, Forgery, Stealth, Balance, Intimidation, Perception, Deception, Performance           |
-| Weapon Proficiencies            | **Choose 2:** Any Simple or Specialist Weapon                                                                |
-| Tool and Language Proficiencies | **Choose 2:** Calligraphy Kit, Disguise Kit, Poison Kit, Locksmithing Kit, Climbing Kit, any Mortal Language |
-| Starting Equipment              |                                                                                                              |
+| Core Stats                      | Agility and Finesse                                                                                |
+| ------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Hit Point Dice                  | D8 per level                                                                                       |
+| Skill Proficiencies             | **Choose 2:** Sleight, Forgery, Stealth, Balance, Intimidation, Perception, Deception, Performance |
+| Weapon Proficiencies            | **Choose 2:** Any Simple or Specialist Weapon                                                      |
+| Tool and Language Proficiencies | **Choose 2:** Any Tool Kit, any Mortal Language                                                    |
+| Starting Equipment              |                                                                                                    |
 
 ###### Assassin Core Features
 

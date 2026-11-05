@@ -1,6 +1,6 @@
 **Classes:** [[Artisan]], [[Brawler]], [[Shifter]], [[Warrior]], [[Zealot]]
 
-| Level    | Cast Actions  | Stats            | Range    |
+| Level    | Casting Time  | Stats            | Range    |
 | -------- | ------------- | ---------------- | -------- |
 | 0th      | 2 Actions     | Physique/Agility | 5 Feet   |
 | **Type** | **Duration**  | **Somatics**     | **Area** |

@@ -1,6 +1,6 @@
-**Prerequisites:** Class: [[Arcanist]], [[Artisan]], [[Commander]], [[Gambler]], [[Magus]], [[Sorcerer]], [[Swashbuckler]], [[Witch]]
+**Classes:** [[Arcanist]], [[Artisan]], [[Commander]], [[Gambler]], [[Magus]], [[Sorcerer]], [[Swashbuckler]], [[Witch]]
 
-| Level    | Cast Actions  | Stats             | Range            |
+| Level    | Casting Time  | Stats             | Range            |
 | -------- | ------------- | ----------------- | ---------------- |
 | 0th      | 2 Actions     | Soul/Intelligence | 30 feet          |
 | **Type** | **Duration**  | **Somatics**      | **Area**         |

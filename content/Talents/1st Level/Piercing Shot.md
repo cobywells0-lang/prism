@@ -1,6 +1,6 @@
 **Classes:** [[Assassin]], [[Deadeye]], [[Hunter]], [[Magus]], [[Warrior]]
 
-| Level        | Cast Actions  | Stats            | Range                    |
+| Level        | Casting Time  | Stats            | Range                    |
 | ------------ | ------------- | ---------------- | ------------------------ |
 | 1st          | 2 Actions     | Finesse/Instinct | Self                     |
 | **Type**     | **Duration**  | **Somatics**     | **Area**                 |

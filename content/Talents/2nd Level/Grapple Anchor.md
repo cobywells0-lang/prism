@@ -1,10 +1,12 @@
-**Prerequisites:** Tool: [[Climbing Kit]]
+**Classes:** [[Arcanist]], [[Artisan]], [[Assassin]], [[Commander]], [[Hunter]], [[Swashbuckler]]
 
-| Level    | Cast Actions | Stats        | Range    |
+| Level    | Casting Time | Stats        | Range    |
 | -------- | ------------ | ------------ | -------- |
 | 2nd      | 1 Action     | -            | 30 feet  |
 | **Type** | **Duration** | **Somatics** | **Area** |
 | Tool     | 1 Minute     | Arm          | -        |
+
+**Tools:** [[Climbing Kit]]
 
 As an Action, you create a floating anchor at a point you can see within range. The anchor remains in place for the duration.
 

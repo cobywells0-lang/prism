@@ -1,10 +1,10 @@
-**Prerequisites:** Class: [[Shifter]]
+**Classes:** [[Shifter]]
 
-| Level  | Cast Actions       | Stats             | Range    |
-| ------ | ------------------ | ----------------- | -------- |
-| 0th    | Reaction/2 Actions | Physique/Instinct | 60 feet  |
-| Type   | **Duration**       | **Somatics**      | **Area** |
-| Innate | Instantaneous      | -                 | -        |
+| Level    | Casting Time       | Stats             | Range    |
+| -------- | ------------------ | ----------------- | -------- |
+| 0th      | Reaction/2 Actions | Physique/Instinct | 60 feet  |
+| **Type** | **Duration**       | **Somatics**      | **Area** |
+| Innate   | Instantaneous      | -                 | -        |
 
 As a Reaction when you are hit with a Melee attack, you defend yourself with sharp bristles. The triggering creature must make a Finesse saving throw. On a failure, it takes 1d4 Piercing damage and the damage you take from the triggering attack is reduced by that same amount. On a success, it takes half damage only.
 

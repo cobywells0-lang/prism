@@ -1,6 +1,6 @@
-**Prerequisites:** Class: [[Brawler]], [[Gambler]], [[Shifter]], [[Sorcerer]], [[Swashbuckler]], [[Warrior]], [[Zealot]]
+**Classes:** [[Brawler]], [[Gambler]], [[Shifter]], [[Sorcerer]], [[Swashbuckler]], [[Warrior]], [[Zealot]]
 
-| Level    | Cast Actions  | Stats         | Range                    |
+| Level    | Casting Time  | Stats         | Range                    |
 | -------- | ------------- | ------------- | ------------------------ |
 | 2nd      | 1 Action      | Physique/Soul | Self                     |
 | **Type** | **Duration**  | **Somatics**  | **Area**                 |

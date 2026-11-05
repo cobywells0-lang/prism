@@ -1,13 +1,12 @@
-**Prerequisites:** Tool: [[Healing Kit]]
+**Classes:** [[Assassin]], [[Commander]], [[Gambler]], [[Swashbuckler]], [[Witch]], [[Zealot]]
 
-| Level    | Cast Actions          | Stats          | Range    |
-| -------- | --------------------- | -------------- | -------- |
-| 2nd      | 2 Actions             | Finesse/Soul   | 5 Feet   |
-| **Type** | **Duration**          | **Components** | **Area** |
-| Tool     | 1 Minute (1A Sustain) | Arm            | -        |
+| Level    | Cast Actions | Stats          | Range    |
+| -------- | ------------ | -------------- | -------- |
+| 2nd      | 3 Actions    | Finesse/Soul   | 5 Feet   |
+| **Type** | **Duration** | **Components** | **Area** |
+| Tool     | 1 Minute     | Arm            | -        |
 
-You force a creature to take a harmless concoction, but it really seems like it should do something nasty. One creature within range must make an Intelligence saving throw. On a failure, it is [[Sickened]] 1 for one minute. While Sickened in this way, it has Disadvantage on attack rolls and skill checks. 
+**Tools:** [[Healing Kit]]
 
-When you Sustain this ability, the target repeats its saving throw. On a success the ability ends.
+With 2 Actions you force a creature to take a harmless concoction, but it really seems like it should do something nasty. One creature within range must make an Agility saving throw. On a failure, it is [[Sickened]] for one minute. An affected creature makes an Intelligence saving throw at the end of each of its turns. On a success, it loses the Sickened condition.
 
-**When cast at higher levels:** Sickened level increases by 1 for every level over 2nd.

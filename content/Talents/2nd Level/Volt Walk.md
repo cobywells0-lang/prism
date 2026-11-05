@@ -1,12 +1,12 @@
-**Prerequisites:** Class: [[Arcanist]], [[Assassin]], [[Commander]], [[Gambler]], [[Hunter]], [[Sorcerer]], [[Swashbuckler]]
+**Classes:** [[Arcanist]], [[Assassin]], [[Commander]], [[Gambler]], [[Hunter]], [[Sorcerer]], [[Swashbuckler]]
 
-| Level | Cast Actions          | Stats        | Range    |
-| ----- | --------------------- | ------------ | -------- |
-| 2     | 1                     | Agility/Soul | Self     |
-| Type  | **Duration**          | **Somatics** | **Area** |
-| Magic | 1 Minute (Sustain 1A) | Legs         | -        |
+| Level    | Casting Time          | Stats        | Range    |
+| -------- | --------------------- | ------------ | -------- |
+| 2nd      | 1 Action              | Agility/Soul | Self     |
+| **Type** | **Duration**          | **Somatics** | **Area** |
+| Magic    | 1 Minute (Sustain 1A) | Legs         | -        |
 
-As an Action you click your heels and imbue your movements with energy. As part of the Actions taken to Cast and Sustain this ability, you can move up to your Speed. For the duration, you gain the following benefits:
+As an Action you click your heels and imbue your movements with energy. As part of the Actions taken to Cast and Sustain this talent, you can move up to your Speed. For the duration, you gain the following benefits:
 
 **Boosted.** Your Speed increases by 10 feet. 
 

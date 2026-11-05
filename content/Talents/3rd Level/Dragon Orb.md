@@ -1,4 +1,4 @@
-**Prerequisites:** [[Sorcerer]]
+**Classes:** [[Sorcerer]]
 
 | Level    | Casting Time          | Stats         | Range            |
 | -------- | --------------------- | ------------- | ---------------- |

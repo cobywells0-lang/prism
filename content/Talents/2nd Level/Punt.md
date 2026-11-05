@@ -1,6 +1,6 @@
-**Prerequisites:** Class: [[Brawler]], [[Shifter]], [[Warrior]]
+**Classes:** [[Brawler]], [[Shifter]], [[Warrior]]
 
-| Level    | Cast Actions  | Stats            | Range    |
+| Level    | Casting Time  | Stats            | Range    |
 | -------- | ------------- | ---------------- | -------- |
 | 2nd      | 2 Actions     | Physique/Agility | 5 feet   |
 | **Type** | **Duration**  | **Somatics**     | **Area** |

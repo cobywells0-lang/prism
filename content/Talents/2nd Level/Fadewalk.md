@@ -1,6 +1,6 @@
-**Prerequisites:** Class: [[Arcanist]], [[Artisan]], [[Assassin]], [[Commander]], [[Hunter]], [[Magus]], [[Witch]], [[Zealot]]
+**Classes:** [[Arcanist]], [[Artisan]], [[Assassin]], [[Commander]], [[Hunter]], [[Magus]], [[Witch]], [[Zealot]]
 
-| Level    | Cast Actions | Stats        | Range    |
+| Level    | Casting Time | Stats        | Range    |
 | -------- | ------------ | ------------ | -------- |
 | 2nd      | 1 Action     | -            | Self     |
 | **Type** | **Duration** | **Somatics** | **Area** |
