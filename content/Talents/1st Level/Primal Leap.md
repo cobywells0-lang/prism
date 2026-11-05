@@ -1,4 +1,4 @@
-**Class:** [[Shifter]]
+**Classes:** [[Shifter]]
 
 | Level    | Casting Time  | Stats            | Range                    |
 | -------- | ------------- | ---------------- | ------------------------ |

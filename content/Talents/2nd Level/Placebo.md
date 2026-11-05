@@ -1,10 +1,10 @@
 **Classes:** [[Assassin]], [[Commander]], [[Gambler]], [[Swashbuckler]], [[Witch]], [[Zealot]]
 
-| Level    | Cast Actions | Stats          | Range    |
-| -------- | ------------ | -------------- | -------- |
-| 2nd      | 3 Actions    | Finesse/Soul   | 5 Feet   |
-| **Type** | **Duration** | **Components** | **Area** |
-| Tool     | 1 Minute     | Arm            | -        |
+| Level    | Casting Time | Stats        | Range    |
+| -------- | ------------ | ------------ | -------- |
+| 2nd      | 2 Actions    | Finesse/Soul | 5 Feet   |
+| **Type** | **Duration** | **Somatics** | **Area** |
+| Tool     | 1 Minute     | Arm          | -        |
 
 **Tools:** [[Healing Kit]]
 

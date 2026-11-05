@@ -8,4 +8,4 @@
 
 **Weapons:** [[Halberd]], [[Meteor Hammer]]
 
-As an Action you make a non-committal, probing strike. Make a melee weapon attack against a creature within range. On a hit, the target takes 1d10 Weapon damage.
+With 2 Actions you make a non-committal, probing strike. Make a melee weapon attack against a creature within range. On a hit, the target takes 1d10 Weapon damage.

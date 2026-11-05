@@ -1,4 +1,4 @@
-**Prerequisites:** Class: [[Artisan]], [[Hunter]]
+**Classes:** [[Artisan]], [[Hunter]]
 
 | Level | Casting Time | Stats                 | Range   |
 | ----- | ------------ | --------------------- | ------- |
