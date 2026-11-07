@@ -13,13 +13,13 @@ If you have any questions or feedback, please reach out to @blu5 on Discord.
 [[Classes/|Browse Classes]]
 [[Subclasses/|Browse Subclasses]]
 [[Species/|Browse Species]]
-[Browse Talents](/prism/talents/)
+[Browse Talents](prism/talents/)
 [[Masteries/|Browse Masteries]]
 
 [[Tools/|Browse Tools]]
 [[Weapons/|Browse Weapons]]
 
-[Browse Conditions](/prism/conditions/)
+[Browse Conditions](prism/conditions/)
 [[Locations/|Browse Locations]]
 [[Monsters/|Browse Monsters]]
 [[Rules/|Browse Rules]]
