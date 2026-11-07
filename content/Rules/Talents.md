@@ -13,8 +13,8 @@ Every Talent has an associated table of information which is pertinent to the us
 #### Level
 The Level of the Talent determines the minimum level of Stamina point that must be expended in order to cast it. A Technique is a 0th level Talent, and requires no Stamina point be expended in order to cast. Techniques, therefore, can be cast any number of times between rests.
 
-#### Cast Actions
-The Cast Actions of the Talent describes how many consecutive Actions must be spent in order to Cast the Talent. If it is cast as a Reaction, the body text of the Talent describes what may trigger the Reaction.
+#### Casting Time
+The Casting Time of the Talent describes how long it takes to Cast the Talent. This time may be described as a number of Actions, a Reaction, or a length of time such as 1 Minute. Each action must be spent consecutively. If a length of time is listed, every turn for that duration must be spent entirely on casting the talent. If a Reaction is listed, its trigger is described in the body of the talent.
 
 #### Stats
 The Stats of the Talent determines which Stat Bonuses you use when calculating the [[Talent Bonus]] of that Talent.
