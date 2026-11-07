@@ -1,4 +1,4 @@
-**Classes:** [[Gambler]], [[Sorcerer]], [[Swashbuckler]], [[Witch]]
+**Classes:** [[Knave]], [[Sorcerer]], [[Swashbuckler]], [[Witch]]
 
 | Level    | Casting Time          | Stats         | Range               |
 | -------- | --------------------- | ------------- | ------------------- |

@@ -1,4 +1,4 @@
-**Classes:** [[Gambler]], [[Sorcerer]], [[Zealot]]
+**Classes:** [[Shifter]], [[Sorcerer]], [[Zealot]]
 
 | Level    | Casting Time  | Stats         | Range                    |
 | -------- | ------------- | ------------- | ------------------------ |

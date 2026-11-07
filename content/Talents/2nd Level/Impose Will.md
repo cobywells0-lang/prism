@@ -1,4 +1,4 @@
-**Classes:** [[Artisan]], [[Commander]], [[Gambler]], [[Sorcerer]], [[Witch]], [[Zealot]]
+**Classes:** [[Artisan]], [[Commander]], [[Knave]], [[Sorcerer]], [[Witch]], [[Zealot]]
 
 | Level    | Casting Time  | Stats             | Range    |
 | -------- | ------------- | ----------------- | -------- |

@@ -1,4 +1,4 @@
-**Classes:** [[Artisan]], [[Assassin]], [[Brawler]], [[Deadeye]], [[Gambler]], [[Magus]], [[Warrior]], [[Zealot]]
+**Classes:** [[Artisan]], [[Assassin]], [[Brawler]], [[Deadeye]], [[Knave]], [[Magus]], [[Warrior]], [[Zealot]]
 
 | Level        | Casting Time | Stats            | Range    |
 | ------------ | ------------ | ---------------- | -------- |

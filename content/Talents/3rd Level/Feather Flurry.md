@@ -1,4 +1,4 @@
-**Classes:** [[Commander]], [[Hunter]], [[Swashbuckler]], [[Witch]]
+**Classes:** [[Commander]], [[Hunter]], [[Knave]], [[Swashbuckler]], [[Witch]]
 
 | Level    | Casting Time          | Stats         | Range                      |
 | -------- | --------------------- | ------------- | -------------------------- |

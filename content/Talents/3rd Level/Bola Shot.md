@@ -1,4 +1,4 @@
-**Classes:** [[Arcanist]], [[Artisan]], [[Assassin]], [[Hunter]], [[Shifter]], [[Warrior]]
+**Classes:** [[Arcanist]], [[Artisan]], [[Assassin]], [[Hunter]], [[Knave]], [[Shifter]], [[Warrior]]
 
 | Level | Casting Time | Stats            | Range   |
 | ----- | ------------ | ---------------- | ------- |

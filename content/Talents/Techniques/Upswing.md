@@ -1,4 +1,4 @@
-**Classes:** [[Assassin]], [[Brawler]], [[Hunter]], [[Magus]], [[Swashbuckler]], [[Warrior]], [[Zealot]]
+**Classes:** [[Assassin]], [[Brawler]], [[Hunter]], [[Knave]], [[Magus]], [[Swashbuckler]], [[Warrior]], [[Zealot]]
 
 | Level    | Casting Time  | Stats            | Range    |
 | -------- | ------------- | ---------------- | -------- |

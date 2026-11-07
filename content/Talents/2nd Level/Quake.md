@@ -1,4 +1,4 @@
-**Classes:** [[Brawler]], [[Gambler]], [[Shifter]], [[Sorcerer]], [[Swashbuckler]], [[Warrior]], [[Zealot]]
+**Classes:** [[Brawler]], [[Knave]], [[Shifter]], [[Sorcerer]], [[Swashbuckler]], [[Warrior]], [[Zealot]]
 
 | Level    | Casting Time  | Stats         | Range                    |
 | -------- | ------------- | ------------- | ------------------------ |

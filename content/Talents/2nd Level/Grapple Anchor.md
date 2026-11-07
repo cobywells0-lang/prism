@@ -1,4 +1,4 @@
-**Classes:** [[Arcanist]], [[Artisan]], [[Assassin]], [[Commander]], [[Hunter]], [[Swashbuckler]]
+**Classes:** [[Arcanist]], [[Artisan]], [[Assassin]], [[Commander]], [[Hunter]], [[Knave]], [[Swashbuckler]]
 
 | Level    | Casting Time | Stats        | Range    |
 | -------- | ------------ | ------------ | -------- |

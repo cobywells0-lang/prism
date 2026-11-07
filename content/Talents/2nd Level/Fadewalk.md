@@ -1,4 +1,4 @@
-**Classes:** [[Arcanist]], [[Artisan]], [[Assassin]], [[Commander]], [[Hunter]], [[Magus]], [[Witch]], [[Zealot]]
+**Classes:** [[Arcanist]], [[Artisan]], [[Assassin]], [[Magus]], [[Witch]], [[Zealot]]
 
 | Level    | Casting Time | Stats        | Range    |
 | -------- | ------------ | ------------ | -------- |

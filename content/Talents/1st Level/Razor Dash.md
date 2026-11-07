@@ -1,4 +1,4 @@
-**Classes:** [[Assassin]], [[Deadeye]], [[Hunter]], [[Magus]], [[Warrior]]
+**Classes:** [[Assassin]], [[Deadeye]], [[Hunter]], [[Knave]], [[Magus]], [[Warrior]]
 
 | Level    | Casting Time  | Stats           | Range    |
 | -------- | ------------- | --------------- | -------- |

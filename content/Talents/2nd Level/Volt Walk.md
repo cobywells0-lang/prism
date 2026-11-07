@@ -1,4 +1,4 @@
-**Classes:** [[Arcanist]], [[Assassin]], [[Commander]], [[Gambler]], [[Hunter]], [[Sorcerer]], [[Swashbuckler]]
+**Classes:** [[Arcanist]], [[Assassin]], [[Commander]], [[Hunter]], [[Sorcerer]], [[Swashbuckler]]
 
 | Level    | Casting Time          | Stats        | Range    |
 | -------- | --------------------- | ------------ | -------- |

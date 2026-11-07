@@ -1,4 +1,4 @@
-**Classes:** [[Artisan]], [[Brawler]], [[Commander]], [[Gambler]], [[Magus]], [[Shifter]], [[Sorcerer]], [[Swashbuckler]], [[Warrior]], [[Zealot]]
+**Classes:** [[Artisan]], [[Brawler]], [[Knave]], [[Sorcerer]], [[Warrior]], [[Zealot]]
 
 | Level    | Casting Time  | Stats         | Range    |
 | -------- | ------------- | ------------- | -------- |

@@ -1,4 +1,4 @@
-**Classes:** [[Arcanist]], [[Assassin]], [[Brawler]], [[Deadeye]], [[Gambler]], [[Hunter]], [[Magus]], [[Swashbuckler]], [[Warrior]]
+**Classes:** [[Arcanist]], [[Assassin]], [[Brawler]], [[Deadeye]], [[Knave]], [[Hunter]], [[Magus]], [[Swashbuckler]], [[Warrior]]
 
 | Level        | Casting Time          | Stats           | Range    |
 | ------------ | --------------------- | --------------- | -------- |

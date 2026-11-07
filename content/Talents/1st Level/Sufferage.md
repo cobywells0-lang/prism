@@ -1,4 +1,4 @@
-**Classes:** [[Assassin]], [[Deadeye]], [[Magus]], [[Sorcerer]], [[Zealot]]
+**Classes:** [[Assassin]], [[Deadeye]], [[Knave]], [[Magus]], [[Sorcerer]], [[Zealot]]
 
 | Level    | Casting Time  | Stats        | Range                    |
 | -------- | ------------- | ------------ | ------------------------ |

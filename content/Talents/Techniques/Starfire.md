@@ -1,4 +1,4 @@
-**Classes:** [[Commander]], [[Gambler]], [[Sorcerer]], [[Swashbuckler]], [[Witch]], [[Zealot]]
+**Classes:** [[Commander]], [[Sorcerer]], [[Swashbuckler]], [[Witch]], [[Zealot]]
 
 | Level    | Casting Time  | Stats         | Range           |
 | -------- | ------------- | ------------- | --------------- |

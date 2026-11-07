@@ -1,4 +1,4 @@
-**Classes:** [[Arcanist]], [[Artisan]], [[Commander]], [[Gambler]], [[Magus]], [[Sorcerer]], [[Swashbuckler]], [[Witch]]
+**Classes:** [[Arcanist]], [[Artisan]], [[Commander]], [[Magus]], [[Sorcerer]], [[Swashbuckler]], [[Witch]]
 
 | Level    | Casting Time  | Stats             | Range            |
 | -------- | ------------- | ----------------- | ---------------- |

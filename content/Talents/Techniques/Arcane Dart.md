@@ -1,4 +1,4 @@
-**Classes:** [[Arcanist]], [[Assassin]], [[Deadeye]], [[Gambler]], [[Magus]], [[Witch]]
+**Classes:** [[Arcanist]], [[Assassin]], [[Deadeye]], [[Knave]], [[Magus]], [[Witch]]
 
 | Level    | Casting Time  | Stats                | Range    |
 | -------- | ------------- | -------------------- | -------- |

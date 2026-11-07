@@ -1,4 +1,4 @@
-**Classes:** [[Brawler]], [[Commander]], [[Shifter]], [[Swashbuckler]], [[Warrior]], [[Zealot]]
+**Classes:** [[Brawler]], [[Commander]], [[Knave]], [[Shifter]], [[Swashbuckler]], [[Warrior]], [[Zealot]]
 
 | Level    | Casting Time | Stats         | Range    |
 | -------- | ------------ | ------------- | -------- |

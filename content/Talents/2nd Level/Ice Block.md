@@ -1,4 +1,4 @@
-**Classes:** [[Artisan]], [[Brawler]], [[Gambler]], [[Magus]], [[Shifter]], [[Sorcerer]]
+**Classes:** [[Artisan]], [[Brawler]], [[Knave]], [[Magus]], [[Shifter]], [[Sorcerer]]
 
 | Level    | Casting Time  | Stats         | Range    |
 | -------- | ------------- | ------------- | -------- |

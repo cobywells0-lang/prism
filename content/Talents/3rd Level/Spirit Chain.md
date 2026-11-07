@@ -1,4 +1,4 @@
-**Classes:** [[Arcanist]], [[Commander]], [[Gambler]], [[Magus]], [[Sorcerer]], [[Witch]], [[Zealot]]
+**Classes:** [[Arcanist]], [[Commander]], [[Knave]], [[Magus]], [[Sorcerer]], [[Witch]], [[Zealot]]
 
 | Level    | Casting Time          | Stats             | Range            |
 | -------- | --------------------- | ----------------- | ---------------- |
