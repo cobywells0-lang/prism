@@ -1,4 +1,4 @@
-[[Conditions|Binary.]]
+[[Condition Rules|Binary.]]
 
 While Charmed, you are infatuated by a certain creature. You suffer the following effects:
 

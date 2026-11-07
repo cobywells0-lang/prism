@@ -4,7 +4,7 @@ Prism is an independently developed tabletop roleplaying game designed with a fo
 
 Prism is currently in pre-Beta, and all content is subject to change.
 
-To get started, try visiting [[Checks]], [[Talents]] and [[Creating a Character]]!
+To get started, try visiting [[Checks]], [[Talent Rules]] and [[Creating a Character]]!
 
 If you have any questions or feedback, please reach out to @blu5 on Discord.
 
@@ -13,13 +13,13 @@ If you have any questions or feedback, please reach out to @blu5 on Discord.
 [[Classes/|Browse Classes]]
 [[Subclasses/|Browse Subclasses]]
 [[Species/|Browse Species]]
-[Browse Talents](https://cobywells0-lang.github.io/prism/talents/)
+[[Talents/|Browse Talents]]
 [[Masteries/|Browse Masteries]]
 
 [[Tools/|Browse Tools]]
 [[Weapons/|Browse Weapons]]
 
-[Browse Conditions](https://cobywells0-lang.github.io/prism/conditions/)
+[[Conditions/|Browse Conditions]]
 [[Locations/|Browse Locations]]
 [[Monsters/|Browse Monsters]]
 [[Rules/|Browse Rules]]

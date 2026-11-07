@@ -1,4 +1,4 @@
-[[Conditions|Binary.]]
+[[Condition Rules|Binary.]]
 
 While Blind, you cannot see. You suffer the following effects:
 

@@ -1,4 +1,4 @@
-[[Conditions|Binary.]]
+[[Condition Rules|Binary.]]
 
 While Incapacitated, you are unable to act freely. You suffer the following effects:
 

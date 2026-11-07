@@ -1,4 +1,4 @@
-[[Conditions|Binary.]]
+[[Condition Rules|Binary.]]
 
 While Concealed you cannot be seen by normal senses. You experience the following effects:
 

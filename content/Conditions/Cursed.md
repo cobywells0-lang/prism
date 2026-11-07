@@ -1,3 +1,3 @@
-[[Conditions|Binary.]]
+[[Condition Rules|Binary.]]
 
 While Cursed, your soul has been marked with an arcane ailment. The effects of the Curse depend upon the ability that caused it.

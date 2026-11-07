@@ -1,4 +1,4 @@
-[[Conditions|Binary.]]
+[[Condition Rules|Binary.]]
 
 While Grappled, you are being held by another creature. You suffer the following effects:
 

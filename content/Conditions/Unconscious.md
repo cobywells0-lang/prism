@@ -1,4 +1,4 @@
-[[Conditions|Binary.]]
+[[Condition Rules|Binary.]]
 
 While Unconscious, you are unable to react to the world around you. You suffer the following effects:
 

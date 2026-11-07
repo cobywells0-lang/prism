@@ -1,4 +1,4 @@
-[[Conditions|Stacking.]]
+[[Condition Rules|Stacking.]]
 
 While Bleeding, your body is leaking fluids or energy (depending on your biology) that you would prefer remain inside of you. You suffer the following effects:
 

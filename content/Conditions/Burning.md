@@ -1,4 +1,4 @@
-[[Conditions|Non-Stacking.]]
+[[Condition Rules|Non-Stacking.]]
 
 While Burning, you are on fire. You take 1d8 Fire damage per stack of Burning at the start of each of your turns.
 

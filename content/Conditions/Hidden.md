@@ -1,4 +1,4 @@
-[[Conditions|Binary.]]
+[[Condition Rules|Binary.]]
 
 You can become Hidden from one or more creatures by hiding as an Action while Concealed from those creatures. While Hidden you experience the following effects:
 

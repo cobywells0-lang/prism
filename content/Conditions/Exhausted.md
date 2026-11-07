@@ -1,4 +1,4 @@
-[[Conditions|Stacking.]]
+[[Condition Rules|Stacking.]]
 
 While Exhausted, lingering wounds or overexertion cause you to struggle to perform to your fullest. You suffer the following effects:
 
